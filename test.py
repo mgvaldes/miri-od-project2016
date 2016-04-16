@@ -44,7 +44,7 @@ g.parse("restaurants_1.rdf")
 #     i += 1
 #
 # print "---------------------------------------------------"
-
+'''
 qres = g.query(
     """SELECT DISTINCT ?bname ?aname
        WHERE {
@@ -53,6 +53,23 @@ qres = g.query(
           ?b skos:prefLabel ?bname .
        }
        ORDER BY ?bname""")
-
+'''
+qres = g.query(
+    """SELECT DISTINCT ?category ?restaurant ?country ?city ?aaddressname ?tel ?mail ?timetable
+       WHERE {
+          ?arestaurant v:category ?bcategory .
+          ?arestaurant v:fn ?restaurant .
+          ?arestaurant v:adr ?aaddress .
+          ?aaddress v:locality ?city .
+          ?aaddress v:street-address ?aaddressname .
+          ?aaddress v:country-name ?country .
+          ?bcategory skos:prefLabel ?category .
+          ?arestaurant v:tel ?arestauranttel .
+          ?arestauranttel rdf:value ?tel .
+          ?arestaurant v:email ?mail .
+          ?arestaurant xv:schedule ?timetable .
+       }
+       ORDER BY ?aaddressategory""")
+# aname = restaurant, bname = category, cname = street,
 for row in qres:
-    print("Category '%s' contains '%s'" % row)
+    print("'%s' '%s' '%s' '%s' '%s' '%s' '%s' '%s'" % row)
