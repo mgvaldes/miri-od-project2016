@@ -1,0 +1,2031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <v:VCard xmlns:v="http://www.w3.org/2006/vcard/ns#" xmlns:ical="http://www.w3.org/2002/12/cal/icaltzd#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xv="http://www.bcn.cat/data/v8y/xvcard#" xmlns:rel="http://www.bcn.cat/data/v8y/relations#" xmlns:tt="http://www.bcn.cat/data/v8y/teltypes#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dctypes="http://purl.org/dc/dcmitype/" rdf:about="http://www.bcn.cat/data/asia/locations#l2067135829">
+      <dct:identifier>2067135829</dct:identifier>
+      <v:fn>Restaurant Japonès Prosperity Sushi</v:fn>
+      <xv:adapted>1</xv:adapted>
+      <v:adr>
+         <v:Address>
+            <v:street-address>C València 240</v:street-address>
+            <xv:streetAddress>
+               <xv:Street>
+                  <xv:streetName>C València</xv:streetName>
+                  <xv:streetNumber>240</xv:streetNumber>
+               </xv:Street>
+            </xv:streetAddress>
+            <xv:district>Eixample</xv:district>
+            <xv:neighborhood>l'Antiga Esquerra de l'Eixample</xv:neighborhood>
+            <v:postal-code>08007</v:postal-code>
+            <v:locality>BARCELONA</v:locality>
+            <v:region>BARCELONA</v:region>
+            <v:country-name>ESPANYA</v:country-name>
+            <xv:geo rdf:resource="http://www.bcn.cat/data/asia/locations#l2067135829-d757e35"/>
+         </v:Address>
+      </v:adr>
+      <v:geo>
+         <v:Location rdf:about="http://www.bcn.cat/data/asia/locations#l2067135829-d757e35">
+            <v:latitude>41.390482399999996</v:latitude>
+            <v:longitude>2.1605586666666667</v:longitude>
+         </v:Location>
+      </v:geo>
+      <v:tel>
+         <rdf:Description>
+            <rdf:value>+34 934516228</rdf:value>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Tel"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+         </rdf:Description>
+      </v:tel>
+      <xv:schedule rdf:parseType="Literal"><![CDATA[<table summary="Taula d'horaris" cellspacing="0" cellpadding="2" border="1">
+<thead>
+<tr>
+<th>Dies</th>
+<th>Hores</th>
+</tr>
+</thead>
+<tbody>
+   <tr>
+      <td rowspan = 1>dilluns i diumenge</td>
+      <td rowspan = 1>de 12 a 16 h</td>
+   </tr>
+   <tr>
+      <td rowspan = 1>de dimarts a dissabte<br>i festius</td>
+      <td rowspan = 1>de 13 a 16 h i<br> de 20 a 24 h</td>
+   </tr>
+</tbody>
+</table>
+]]></xv:schedule>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000102004012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000101004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010402002039"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010401002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010501001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010902004006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010901004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0011301002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040104012001004005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040104012001004007"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0051401006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0052801006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054303005002004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054302005002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054301005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054303005002008"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054302005002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054301005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062004012001004005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062004012001004007"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062204004001004005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062204004001004007"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050004007004003014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050003007004003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050002007004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050001007"/>
+      <dct:created>2002-03-08T00:00:00</dct:created>
+      <v:rev>2005-05-30T13:08:00</v:rev>
+   </v:VCard>
+  <v:VCard xmlns:v="http://www.w3.org/2006/vcard/ns#" xmlns:ical="http://www.w3.org/2002/12/cal/icaltzd#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xv="http://www.bcn.cat/data/v8y/xvcard#" xmlns:rel="http://www.bcn.cat/data/v8y/relations#" xmlns:tt="http://www.bcn.cat/data/v8y/teltypes#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dctypes="http://purl.org/dc/dcmitype/" rdf:about="http://www.bcn.cat/data/asia/locations#l2073131047">
+      <dct:identifier>2073131047</dct:identifier>
+      <v:fn>Restaurant La Polpa</v:fn>
+      <xv:adapted>0</xv:adapted>
+      <v:adr>
+         <v:Address>
+            <v:street-address>C Enric Granados 69</v:street-address>
+            <xv:streetAddress>
+               <xv:Street>
+                  <xv:streetName>C Enric Granados</xv:streetName>
+                  <xv:streetNumber>69</xv:streetNumber>
+               </xv:Street>
+            </xv:streetAddress>
+            <xv:district>Eixample</xv:district>
+            <xv:neighborhood>l'Antiga Esquerra de l'Eixample</xv:neighborhood>
+            <v:postal-code>08008</v:postal-code>
+            <v:locality>BARCELONA</v:locality>
+            <v:region>BARCELONA</v:region>
+            <v:country-name>ESPANYA</v:country-name>
+            <xv:geo rdf:resource="http://www.bcn.cat/data/asia/locations#l2073131047-d2024e35"/>
+         </v:Address>
+      </v:adr>
+      <v:geo>
+         <v:Location rdf:about="http://www.bcn.cat/data/asia/locations#l2073131047-d2024e35">
+            <v:latitude>41.391198869444445</v:latitude>
+            <v:longitude>2.1576870277777775</v:longitude>
+         </v:Location>
+      </v:geo>
+      <v:tel>
+         <rdf:Description>
+            <rdf:value>+34 933238308</rdf:value>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Tel"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+         </rdf:Description>
+      </v:tel>
+      <xv:schedule rdf:parseType="Literal"><![CDATA[<table summary="Taula d'horaris" cellspacing="0" cellpadding="2" border="1">
+<thead>
+<tr>
+<th>Dies</th>
+<th>Hores</th>
+</tr>
+</thead>
+<tbody>
+   <tr>
+      <td rowspan = 1>de dilluns a diumenge<br> i festius</td>
+      <td rowspan = 1>de 13 a 15.30 h i<br>de 20.30 a 23.30 h</td>
+   </tr>
+</tbody>
+</table>
+]]></xv:schedule>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000102004012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000101004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010402002037"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010401002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010903006003001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010902006003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010901006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0011301002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040104012001001011"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0051401006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0052801006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054303005003010"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054302005003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054301005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062004012001001011"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062204004001001011"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050004007004003014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050003007004003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050002007004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050001007"/>
+      <dct:created>2002-03-14T00:00:00</dct:created>
+      <v:rev>2005-06-09T13:25:00</v:rev>
+   </v:VCard>
+  <v:VCard xmlns:v="http://www.w3.org/2006/vcard/ns#" xmlns:ical="http://www.w3.org/2002/12/cal/icaltzd#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xv="http://www.bcn.cat/data/v8y/xvcard#" xmlns:rel="http://www.bcn.cat/data/v8y/relations#" xmlns:tt="http://www.bcn.cat/data/v8y/teltypes#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dctypes="http://purl.org/dc/dcmitype/" rdf:about="http://www.bcn.cat/data/asia/locations#l2078185838">
+      <dct:identifier>2078185838</dct:identifier>
+      <v:fn>Restaurant Xinés Memorias de China</v:fn>
+      <xv:adapted>1</xv:adapted>
+      <v:adr>
+         <v:Address>
+            <v:street-address>C Lincoln 17</v:street-address>
+            <xv:streetAddress>
+               <xv:Street>
+                  <xv:streetName>C Lincoln</xv:streetName>
+                  <xv:streetNumber>17</xv:streetNumber>
+               </xv:Street>
+            </xv:streetAddress>
+            <xv:district>Sarrià-Sant Gervasi</xv:district>
+            <xv:neighborhood>Sant Gervasi - Galvany</xv:neighborhood>
+            <v:postal-code>08006</v:postal-code>
+            <v:locality>BARCELONA</v:locality>
+            <v:region>BARCELONA</v:region>
+            <v:country-name>ESPANYA</v:country-name>
+            <xv:geo rdf:resource="http://www.bcn.cat/data/asia/locations#l2078185838-d1836e35"/>
+         </v:Address>
+      </v:adr>
+      <v:geo>
+         <v:Location rdf:about="http://www.bcn.cat/data/asia/locations#l2078185838-d1836e35">
+            <v:latitude>41.400446655555555</v:latitude>
+            <v:longitude>2.149914361111111</v:longitude>
+         </v:Location>
+      </v:geo>
+      <v:tel>
+         <rdf:Description>
+            <rdf:value>+34 934157602</rdf:value>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Tel"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+         </rdf:Description>
+      </v:tel>
+      <v:tel>
+         <rdf:Description>
+            <rdf:value>+34 932183304</rdf:value>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Tel"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+         </rdf:Description>
+      </v:tel>
+      <xv:schedule rdf:parseType="Literal"><![CDATA[<table summary="Taula d'horaris" cellspacing="0" cellpadding="2" border="1">
+<thead>
+<tr>
+<th>Dies</th>
+<th>Hores</th>
+</tr>
+</thead>
+<tbody>
+   <tr>
+      <td rowspan = 1>de dilluns a diumenge</td>
+      <td rowspan = 1>d'11:30 h a 16:00 h i<BR>de 19:30 h a 00:00 h</td>
+   </tr>
+</tbody>
+</table>
+]]></xv:schedule>
+      <v:url rdf:resource="http://www.memoriasdechina.es"/>
+      <v:email>
+         <rdf:Description rdf:about="mailto:info@memoriasdechina.es">
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Email"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+         </rdf:Description>
+      </v:email>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000102004012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000101004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010501001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010902004001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010901004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0011301002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040104012001004007"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040104012001004012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0051401006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0052801006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054303005002008"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054302005002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054301005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054303005002012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054302005002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054301005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062004012001004007"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062004012001004012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062204004001004007"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062204004001004012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050004007004003014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050003007004003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050002007004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050001007"/>
+      <dct:created>2002-03-19T00:00:00</dct:created>
+      <v:rev>2007-07-24T14:09:00</v:rev>
+   </v:VCard>
+  <v:VCard xmlns:v="http://www.w3.org/2006/vcard/ns#" xmlns:ical="http://www.w3.org/2002/12/cal/icaltzd#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xv="http://www.bcn.cat/data/v8y/xvcard#" xmlns:rel="http://www.bcn.cat/data/v8y/relations#" xmlns:tt="http://www.bcn.cat/data/v8y/teltypes#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dctypes="http://purl.org/dc/dcmitype/" rdf:about="http://www.bcn.cat/data/asia/locations#l2079145408">
+      <dct:identifier>2079145408</dct:identifier>
+      <v:fn>Restaurant El Rovell del Born</v:fn>
+      <xv:adapted>0</xv:adapted>
+      <v:adr>
+         <v:Address>
+            <v:street-address>C Argenteria 6</v:street-address>
+            <xv:streetAddress>
+               <xv:Street>
+                  <xv:streetName>C Argenteria</xv:streetName>
+                  <xv:streetNumber>6</xv:streetNumber>
+               </xv:Street>
+            </xv:streetAddress>
+            <xv:district>Ciutat Vella</xv:district>
+            <xv:neighborhood>Sant Pere, Santa Caterina i la Ribera</xv:neighborhood>
+            <v:postal-code>08003</v:postal-code>
+            <v:locality>BARCELONA</v:locality>
+            <v:region>BARCELONA</v:region>
+            <v:country-name>ESPANYA</v:country-name>
+            <xv:geo rdf:resource="http://www.bcn.cat/data/asia/locations#l2079145408-d2844e35"/>
+         </v:Address>
+      </v:adr>
+      <v:geo>
+         <v:Location rdf:about="http://www.bcn.cat/data/asia/locations#l2079145408-d2844e35">
+            <v:latitude>41.38363045</v:latitude>
+            <v:longitude>2.1801911111111107</v:longitude>
+         </v:Location>
+      </v:geo>
+      <v:tel>
+         <rdf:Description>
+            <rdf:value>+34 932690458</rdf:value>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Tel"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+         </rdf:Description>
+      </v:tel>
+      <xv:schedule rdf:parseType="Literal"><![CDATA[<table summary="Taula d'horaris" cellspacing="0" cellpadding="2" border="1">
+<thead>
+<tr>
+<th>Dies</th>
+<th>Hores</th>
+</tr>
+</thead>
+<tbody>
+   <tr>
+      <td rowspan = 1>dimarts, dimecres, dijous i diumenges</td>
+      <td rowspan = 1>d'11:00 h a 01:00 h</td>
+   </tr>
+   <tr>
+      <td rowspan = 1>divendres i dissabtes</td>
+      <td rowspan = 1>d'11:00 h a 01:30 h</td>
+   </tr>
+</tbody>
+</table>
+]]></xv:schedule>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000102004012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000101004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010903006003001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010902006003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010901006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0011301002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040104012001001011"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0051401006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0052801006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054303005003010"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054302005003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054301005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062004012001001011"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062204004001001011"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050004007004003014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050003007004003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050002007004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050001007"/>
+      <dct:created>2002-03-20T00:00:00</dct:created>
+      <v:rev>2006-09-19T14:58:00</v:rev>
+   </v:VCard>
+  <v:VCard xmlns:v="http://www.w3.org/2006/vcard/ns#" xmlns:ical="http://www.w3.org/2002/12/cal/icaltzd#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xv="http://www.bcn.cat/data/v8y/xvcard#" xmlns:rel="http://www.bcn.cat/data/v8y/relations#" xmlns:tt="http://www.bcn.cat/data/v8y/teltypes#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dctypes="http://purl.org/dc/dcmitype/" rdf:about="http://www.bcn.cat/data/asia/locations#l2122113921">
+      <dct:identifier>2122113921</dct:identifier>
+      <v:fn>Restaurant Japonès Sumo *Centre de la Vila</v:fn>
+      <xv:adapted>0</xv:adapted>
+      <v:adr>
+         <v:Address>
+            <v:street-address>C Salvador Espriu 61</v:street-address>
+            <xv:streetAddress>
+               <xv:Street>
+                  <xv:streetName>C Salvador Espriu</xv:streetName>
+                  <xv:streetNumber>61</xv:streetNumber>
+               </xv:Street>
+            </xv:streetAddress>
+            <xv:district>Sant Martí</xv:district>
+            <xv:neighborhood>la Vila Olímpica del Poblenou</xv:neighborhood>
+            <v:postal-code>08005</v:postal-code>
+            <v:locality>BARCELONA</v:locality>
+            <v:region>BARCELONA</v:region>
+            <v:country-name>ESPANYA</v:country-name>
+            <xv:geo rdf:resource="http://www.bcn.cat/data/asia/locations#l2122113921-d1060e35"/>
+         </v:Address>
+      </v:adr>
+      <v:geo>
+         <v:Location rdf:about="http://www.bcn.cat/data/asia/locations#l2122113921-d1060e35">
+            <v:latitude>41.390896519444446</v:latitude>
+            <v:longitude>2.1978509444444443</v:longitude>
+         </v:Location>
+      </v:geo>
+      <v:tel>
+         <rdf:Description>
+            <rdf:value>+34 932219847</rdf:value>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Tel"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+         </rdf:Description>
+      </v:tel>
+      <v:tel>
+         <rdf:Description>
+            <rdf:value>+34 932219847</rdf:value>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Tel"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+         </rdf:Description>
+      </v:tel>
+      <xv:schedule rdf:parseType="Literal"><![CDATA[<table summary="Taula d'horaris" cellspacing="0" cellpadding="2" border="1">
+<thead>
+<tr>
+<th>Dies</th>
+<th>Hores</th>
+</tr>
+</thead>
+<tbody>
+   <tr>
+      <td rowspan = 1>de dilluns a dijous</td>
+      <td rowspan = 1>de 13 a 16 h <br> i de 20 a 23 h</td>
+   </tr>
+   <tr>
+      <td rowspan = 1>divendres i dissabte</td>
+      <td rowspan = 1>de 13 a 16 h <br> i de 20 a 00.30 h</td>
+   </tr>
+   <tr>
+      <td rowspan = 1>diumenge</td>
+      <td rowspan = 1>de 13 a 16 h <br> i de 20 a 23 h</td>
+   </tr>
+</tbody>
+</table>
+]]></xv:schedule>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000102004012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000101004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010902004006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010901004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0011301002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040104012001004005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040104012001004007"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0051401006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0052801006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054303005002004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054302005002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054301005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054303005002008"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054302005002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054301005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062004012001004005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062004012001004007"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062204004001004005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062204004001004007"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050004007004003014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050003007004003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050002007004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050001007"/>
+      <dct:created>2002-05-02T00:00:00</dct:created>
+      <v:rev>2006-03-29T17:55:00</v:rev>
+   </v:VCard>
+  <v:VCard xmlns:v="http://www.w3.org/2006/vcard/ns#" xmlns:ical="http://www.w3.org/2002/12/cal/icaltzd#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xv="http://www.bcn.cat/data/v8y/xvcard#" xmlns:rel="http://www.bcn.cat/data/v8y/relations#" xmlns:tt="http://www.bcn.cat/data/v8y/teltypes#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dctypes="http://purl.org/dc/dcmitype/" rdf:about="http://www.bcn.cat/data/asia/locations#l2122182514">
+      <dct:identifier>2122182514</dct:identifier>
+      <v:fn>Restaurant Chido One</v:fn>
+      <xv:adapted>0</xv:adapted>
+      <v:adr>
+         <v:Address>
+            <v:street-address>C Torrijos 30</v:street-address>
+            <xv:streetAddress>
+               <xv:Street>
+                  <xv:streetName>C Torrijos</xv:streetName>
+                  <xv:streetNumber>30</xv:streetNumber>
+               </xv:Street>
+            </xv:streetAddress>
+            <xv:district>Gràcia</xv:district>
+            <xv:neighborhood>la Vila de Gràcia</xv:neighborhood>
+            <v:postal-code>08012</v:postal-code>
+            <v:locality>BARCELONA</v:locality>
+            <v:region>BARCELONA</v:region>
+            <v:country-name>ESPANYA</v:country-name>
+            <xv:geo rdf:resource="http://www.bcn.cat/data/asia/locations#l2122182514-d826e35"/>
+         </v:Address>
+      </v:adr>
+      <v:geo>
+         <v:Location rdf:about="http://www.bcn.cat/data/asia/locations#l2122182514-d826e35">
+            <v:latitude>41.40326995555555</v:latitude>
+            <v:longitude>2.1590226388888887</v:longitude>
+         </v:Location>
+      </v:geo>
+      <v:tel>
+         <rdf:Description>
+            <rdf:value>+34 932850335</rdf:value>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Tel"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+         </rdf:Description>
+      </v:tel>
+      <v:tel>
+         <rdf:Description>
+            <rdf:value>+34 932371531</rdf:value>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Tel"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+         </rdf:Description>
+      </v:tel>
+      <xv:schedule rdf:parseType="Literal"><![CDATA[<table summary="Taula d'horaris" cellspacing="0" cellpadding="2" border="1">
+<thead>
+<tr>
+<th>Dies</th>
+<th>Hores</th>
+</tr>
+</thead>
+<tbody>
+   <tr>
+      <td rowspan = 1>de dilluns a divendres</td>
+      <td rowspan = 1>de 19 a 01.00 h</td>
+   </tr>
+   <tr>
+      <td rowspan = 1>dissabte i diumenge</td>
+      <td rowspan = 1>de 13 a 02.00 h</td>
+   </tr>
+</tbody>
+</table>
+]]></xv:schedule>
+      <v:email>
+         <rdf:Description rdf:about="mailto:info@chidoone.com">
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Email"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+         </rdf:Description>
+      </v:email>
+      <v:url rdf:resource="http://www.chidoone.com"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000102004012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000101004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000102006108"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000101006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010902003014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010901003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0011001158"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0011301002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103004014001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102004014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040104012001003009"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012001003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0051401004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0051401006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0052801006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054303005001005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054302005001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054301005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003004014001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002004014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062004012001003009"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012001003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201000"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062204004001003009"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004001003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050004007004003014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050003007004003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050002007004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050001007"/>
+      <dct:created>2002-05-02T00:00:00</dct:created>
+      <v:rev>2012-10-29T12:00:00</v:rev>
+   </v:VCard>
+  <v:VCard xmlns:v="http://www.w3.org/2006/vcard/ns#" xmlns:ical="http://www.w3.org/2002/12/cal/icaltzd#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xv="http://www.bcn.cat/data/v8y/xvcard#" xmlns:rel="http://www.bcn.cat/data/v8y/relations#" xmlns:tt="http://www.bcn.cat/data/v8y/teltypes#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dctypes="http://purl.org/dc/dcmitype/" rdf:about="http://www.bcn.cat/data/asia/locations#l234125759">
+      <dct:identifier>234125759</dct:identifier>
+      <v:fn>Bar Restaurant 12+1 Deport Restaurant</v:fn>
+      <xv:adapted>1</xv:adapted>
+      <v:adr>
+         <v:Address>
+            <v:street-address>Arquitecte Sert 17*19</v:street-address>
+            <xv:streetAddress>
+               <xv:Street>
+                  <xv:streetName>Arquitecte Sert</xv:streetName>
+                  <xv:streetNumber>17*19</xv:streetNumber>
+               </xv:Street>
+            </xv:streetAddress>
+            <xv:district>Sant Martí</xv:district>
+            <xv:neighborhood>la Vila Olímpica del Poblenou</xv:neighborhood>
+            <v:postal-code>08005</v:postal-code>
+            <v:locality>BARCELONA</v:locality>
+            <v:region>BARCELONA</v:region>
+            <v:country-name>ESPANYA</v:country-name>
+            <xv:geo rdf:resource="http://www.bcn.cat/data/asia/locations#l234125759-d696e35"/>
+         </v:Address>
+      </v:adr>
+      <v:geo>
+         <v:Location rdf:about="http://www.bcn.cat/data/asia/locations#l234125759-d696e35">
+            <v:latitude>41.390896519444446</v:latitude>
+            <v:longitude>2.1978509444444443</v:longitude>
+         </v:Location>
+      </v:geo>
+      <v:tel>
+         <rdf:Description>
+            <rdf:value>+34 932219752</rdf:value>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Tel"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+         </rdf:Description>
+      </v:tel>
+      <v:tel>
+         <rdf:Description>
+            <rdf:value>+34 932219752</rdf:value>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Tel"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+         </rdf:Description>
+      </v:tel>
+      <xv:schedule rdf:parseType="Literal"><![CDATA[<table summary="Taula d'horaris" cellspacing="0" cellpadding="2" border="1">
+<thead>
+<tr>
+<th>Dies</th>
+<th>Hores</th>
+</tr>
+</thead>
+<tbody>
+   <tr>
+      <td rowspan = 1>de dilluns a diumenge i festius</td>
+      <td rowspan = 1>de 13 a 16.30 h i<br>20.30 a 24 h</td>
+   </tr>
+</tbody>
+</table>
+]]></xv:schedule>
+      <v:email>
+         <rdf:Description rdf:about="mailto:12mas1@12mas1.com">
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Email"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+         </rdf:Description>
+      </v:email>
+      <v:url rdf:resource="http://www.12mas1.com"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000102004012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000101004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010402002008"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010401002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010402002014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010401002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010402002015"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010401002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010402002039"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010401002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010501001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010903001001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010902001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010901001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0011301002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012002003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012002009"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012002018"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040104012001001005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0051401006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0052801006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0052801010"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0052801013"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0052801014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054303005003005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054302005003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054301005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054303005005001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054302005005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054301005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054303005005007"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054302005005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054301005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054303005005009"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054302005005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054301005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012002003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012002009"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012002018"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062004012001001005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004002003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004002009"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004002018"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062204004001001005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050004007004003014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050003007004003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050002007004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050001007"/>
+      <dct:created>2000-08-21T00:00:00</dct:created>
+      <v:rev>2006-03-29T05:26:00</v:rev>
+   </v:VCard>
+  <v:VCard xmlns:v="http://www.w3.org/2006/vcard/ns#" xmlns:ical="http://www.w3.org/2002/12/cal/icaltzd#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xv="http://www.bcn.cat/data/v8y/xvcard#" xmlns:rel="http://www.bcn.cat/data/v8y/relations#" xmlns:tt="http://www.bcn.cat/data/v8y/teltypes#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dctypes="http://purl.org/dc/dcmitype/" rdf:about="http://www.bcn.cat/data/asia/locations#l235182325">
+      <dct:identifier>235182325</dct:identifier>
+      <v:fn>Cerveseria Restaurant Vildsvin</v:fn>
+      <xv:adapted>0</xv:adapted>
+      <v:adr>
+         <v:Address>
+            <v:street-address>C Ferran 38</v:street-address>
+            <xv:streetAddress>
+               <xv:Street>
+                  <xv:streetName>C Ferran</xv:streetName>
+                  <xv:streetNumber>38</xv:streetNumber>
+               </xv:Street>
+            </xv:streetAddress>
+            <xv:district>Ciutat Vella</xv:district>
+            <xv:neighborhood>el Barri Gòtic</xv:neighborhood>
+            <v:postal-code>08002</v:postal-code>
+            <v:locality>BARCELONA</v:locality>
+            <v:region>BARCELONA</v:region>
+            <v:country-name>ESPANYA</v:country-name>
+            <xv:geo rdf:resource="http://www.bcn.cat/data/asia/locations#l235182325-d303e35"/>
+         </v:Address>
+      </v:adr>
+      <v:geo>
+         <v:Location rdf:about="http://www.bcn.cat/data/asia/locations#l235182325-d303e35">
+            <v:latitude>41.381973994444444</v:latitude>
+            <v:longitude>2.17633375</v:longitude>
+         </v:Location>
+      </v:geo>
+      <v:tel>
+         <rdf:Description>
+            <rdf:value>+34 933179455</rdf:value>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Tel"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+         </rdf:Description>
+      </v:tel>
+      <xv:schedule rdf:parseType="Literal"><![CDATA[<table summary="Taula d'horaris" cellspacing="0" cellpadding="2" border="1">
+<thead>
+<tr>
+<th>Dies</th>
+<th>Hores</th>
+</tr>
+</thead>
+<tbody>
+   <tr>
+      <td rowspan = 1>de dilluns a diumenge i festius</td>
+      <td rowspan = 1>de 9 a 24 h</td>
+   </tr>
+</tbody>
+</table>
+]]></xv:schedule>
+      <v:email>
+         <rdf:Description rdf:about="mailto:reservas@sagardi.es">
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Email"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+         </rdf:Description>
+      </v:email>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000102004012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000101004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000102004022"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000101004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010902001005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010901001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0011301002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040104012001002001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012001002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0051401006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0052801006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054303005004000"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054302005004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054301005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062004012001002001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012001002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062204004001002001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004001002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050004007004003014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050003007004003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050002007004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050001007"/>
+      <dct:created>2000-08-22T00:00:00</dct:created>
+      <v:rev>2006-04-03T18:59:00</v:rev>
+   </v:VCard>
+  <v:VCard xmlns:v="http://www.w3.org/2006/vcard/ns#" xmlns:ical="http://www.w3.org/2002/12/cal/icaltzd#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xv="http://www.bcn.cat/data/v8y/xvcard#" xmlns:rel="http://www.bcn.cat/data/v8y/relations#" xmlns:tt="http://www.bcn.cat/data/v8y/teltypes#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dctypes="http://purl.org/dc/dcmitype/" rdf:about="http://www.bcn.cat/data/asia/locations#l238152451">
+      <dct:identifier>238152451</dct:identifier>
+      <v:fn>Xiringuito Splashh</v:fn>
+      <xv:adapted>0</xv:adapted>
+      <v:adr>
+         <v:Address>
+            <v:street-address>Ptja Barceloneta 100*LP</v:street-address>
+            <xv:streetAddress>
+               <xv:Street>
+                  <xv:streetName>Ptja Barceloneta</xv:streetName>
+                  <xv:streetNumber>100*LP</xv:streetNumber>
+               </xv:Street>
+            </xv:streetAddress>
+            <xv:district>Ciutat Vella</xv:district>
+            <xv:neighborhood>Barceloneta</xv:neighborhood>
+            <v:postal-code>08003</v:postal-code>
+            <v:locality>BARCELONA</v:locality>
+            <v:region>BARCELONA</v:region>
+            <v:country-name>ESPANYA</v:country-name>
+            <xv:geo rdf:resource="http://www.bcn.cat/data/asia/locations#l238152451-d923e35"/>
+         </v:Address>
+      </v:adr>
+      <v:geo>
+         <v:Location rdf:about="http://www.bcn.cat/data/asia/locations#l238152451-d923e35">
+            <v:latitude>41.37586967777778</v:latitude>
+            <v:longitude>2.1911498055555554</v:longitude>
+         </v:Location>
+      </v:geo>
+      <v:note rdf:parseType="Literal"><![CDATA[Està davant del Club Natació Atlètic - Barceloneta.
+<BR>Només obre temporada d'estiu]]></v:note>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000103004012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000102004012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000101004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000103006005001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000102006005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000101006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0011001020"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103004014002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102004014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0051401004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0051401006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0052801006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003004014002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002004014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050004007004003014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050003007004003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050002007004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050001007"/>
+      <dct:created>2000-08-25T00:00:00</dct:created>
+      <v:rev>2008-08-06T12:27:00</v:rev>
+   </v:VCard>
+  <v:VCard xmlns:v="http://www.w3.org/2006/vcard/ns#" xmlns:ical="http://www.w3.org/2002/12/cal/icaltzd#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xv="http://www.bcn.cat/data/v8y/xvcard#" xmlns:rel="http://www.bcn.cat/data/v8y/relations#" xmlns:tt="http://www.bcn.cat/data/v8y/teltypes#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dctypes="http://purl.org/dc/dcmitype/" rdf:about="http://www.bcn.cat/data/asia/locations#l257161503">
+      <dct:identifier>257161503</dct:identifier>
+      <v:fn>Bar El 24</v:fn>
+      <xv:adapted>0</xv:adapted>
+      <v:adr>
+         <v:Address>
+            <v:street-address>Ferran 24</v:street-address>
+            <xv:streetAddress>
+               <xv:Street>
+                  <xv:streetName>Ferran</xv:streetName>
+                  <xv:streetNumber>24</xv:streetNumber>
+               </xv:Street>
+            </xv:streetAddress>
+            <xv:district>Ciutat Vella</xv:district>
+            <xv:neighborhood>el Barri Gòtic</xv:neighborhood>
+            <v:postal-code>08002</v:postal-code>
+            <v:locality>BARCELONA</v:locality>
+            <v:region>BARCELONA</v:region>
+            <v:country-name>ESPANYA</v:country-name>
+            <xv:geo rdf:resource="http://www.bcn.cat/data/asia/locations#l257161503-d1097e35"/>
+         </v:Address>
+      </v:adr>
+      <v:geo>
+         <v:Location rdf:about="http://www.bcn.cat/data/asia/locations#l257161503-d1097e35">
+            <v:latitude>41.38120663888889</v:latitude>
+            <v:longitude>2.175372583333333</v:longitude>
+         </v:Location>
+      </v:geo>
+      <v:tel>
+         <rdf:Description>
+            <rdf:value>+34 933020986</rdf:value>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Tel"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+         </rdf:Description>
+      </v:tel>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000102004013"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000101004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012003000"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0051401006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0052801006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012003000"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004003000"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <dct:created>2000-09-13T00:00:00</dct:created>
+      <v:rev>2001-06-26T00:00:00</v:rev>
+   </v:VCard>
+  <v:VCard xmlns:v="http://www.w3.org/2006/vcard/ns#" xmlns:ical="http://www.w3.org/2002/12/cal/icaltzd#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xv="http://www.bcn.cat/data/v8y/xvcard#" xmlns:rel="http://www.bcn.cat/data/v8y/relations#" xmlns:tt="http://www.bcn.cat/data/v8y/teltypes#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dctypes="http://purl.org/dc/dcmitype/" rdf:about="http://www.bcn.cat/data/asia/locations#l273191107">
+      <dct:identifier>273191107</dct:identifier>
+      <v:fn>Museu d'Història de Catalunya</v:fn>
+      <xv:section>Cafeteria Restaurant 1881</xv:section>
+      <xv:adapted>1</xv:adapted>
+      <v:adr>
+         <v:Address>
+            <v:street-address>Pl Pau Vila 3</v:street-address>
+            <xv:streetAddress>
+               <xv:Street>
+                  <xv:streetName>Pl Pau Vila</xv:streetName>
+                  <xv:streetNumber>3</xv:streetNumber>
+               </xv:Street>
+            </xv:streetAddress>
+            <xv:district>Ciutat Vella</xv:district>
+            <xv:neighborhood>la Barceloneta</xv:neighborhood>
+            <v:postal-code>08039</v:postal-code>
+            <v:locality>BARCELONA</v:locality>
+            <v:region>BARCELONA</v:region>
+            <v:country-name>ESPANYA</v:country-name>
+            <xv:geo rdf:resource="http://www.bcn.cat/data/asia/locations#l273191107-d2890e35"/>
+         </v:Address>
+      </v:adr>
+      <v:geo>
+         <v:Location rdf:about="http://www.bcn.cat/data/asia/locations#l273191107-d2890e35">
+            <v:latitude>41.3808077</v:latitude>
+            <v:longitude>2.185855722222222</v:longitude>
+         </v:Location>
+      </v:geo>
+      <v:tel>
+         <rdf:Description>
+            <rdf:value>+34 932210050</rdf:value>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Tel"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+         </rdf:Description>
+      </v:tel>
+      <xv:schedule rdf:parseType="Literal"><![CDATA[<table summary="Taula d'horaris" cellspacing="0" cellpadding="2" border="1">
+<thead>
+<tr>
+<th>Dies</th>
+<th>Hores</th>
+</tr>
+</thead>
+<tbody>
+   <tr>
+      <td rowspan = 1>dilluns, dimarts, dimecres, dijous i diumenges</td>
+      <td rowspan = 1>de 13:00 h a 16:00 h i<BR>de 20:00 h a  24:00 h</td>
+   </tr>
+   <tr>
+      <td rowspan = 1>divendres i dissabtes</td>
+      <td rowspan = 1>de 13:00 h a 16:00 h i<BR>de 20:00 h a 01:00 h</td>
+   </tr>
+</tbody>
+</table>
+]]></xv:schedule>
+      <dct:isPartOf rdf:resource="http://www.bcn.cat/data/asia/locations#l96025141508"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000102004012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000101004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010402002000"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010401002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010402002005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010401002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010402002016"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010401002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010501001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010903001001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010902001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010901001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0011301002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012002005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040104012001001005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040104012001001011"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0051401006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0052801006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0052801014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054303005003005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054302005003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054301005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054303005003010"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054302005003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054301005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054303005005009"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054302005005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054301005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012002005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062004012001001005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062004012001001011"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004002005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062204004001001005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062204004001001011"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050004007004003014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050003007004003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050002007004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050001007"/>
+      <dct:created>2000-09-29T00:00:00</dct:created>
+      <v:rev>2011-07-01T13:52:00</v:rev>
+   </v:VCard>
+  <v:VCard xmlns:v="http://www.w3.org/2006/vcard/ns#" xmlns:ical="http://www.w3.org/2002/12/cal/icaltzd#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xv="http://www.bcn.cat/data/v8y/xvcard#" xmlns:rel="http://www.bcn.cat/data/v8y/relations#" xmlns:tt="http://www.bcn.cat/data/v8y/teltypes#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dctypes="http://purl.org/dc/dcmitype/" rdf:about="http://www.bcn.cat/data/asia/locations#l279103226">
+      <dct:identifier>279103226</dct:identifier>
+      <v:fn>Restaurant Self-service Polimenú*La Cup</v:fn>
+      <xv:adapted>0</xv:adapted>
+      <v:adr>
+         <v:Address>
+            <v:street-address>C Jordi Girona 1-3</v:street-address>
+            <xv:streetAddress>
+               <xv:Street>
+                  <xv:streetName>C Jordi Girona</xv:streetName>
+                  <xv:streetNumber>1-3</xv:streetNumber>
+               </xv:Street>
+            </xv:streetAddress>
+            <xv:district>Les Corts</xv:district>
+            <xv:neighborhood>Pedralbes</xv:neighborhood>
+            <v:postal-code>08034</v:postal-code>
+            <v:locality>BARCELONA</v:locality>
+            <v:region>BARCELONA</v:region>
+            <v:country-name>ESPANYA</v:country-name>
+            <xv:geo rdf:resource="http://www.bcn.cat/data/asia/locations#l279103226-d1178e35"/>
+         </v:Address>
+      </v:adr>
+      <v:geo>
+         <v:Location rdf:about="http://www.bcn.cat/data/asia/locations#l279103226-d1178e35">
+            <v:latitude>41.38991789166666</v:latitude>
+            <v:longitude>2.115375111111111</v:longitude>
+         </v:Location>
+      </v:geo>
+      <v:tel>
+         <rdf:Description>
+            <rdf:value>+34 934017107</rdf:value>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Tel"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+         </rdf:Description>
+      </v:tel>
+      <v:tel>
+         <rdf:Description>
+            <rdf:value>+34 932044020</rdf:value>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Tel"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+         </rdf:Description>
+      </v:tel>
+      <xv:schedule rdf:parseType="Literal"><![CDATA[<table summary="Taula d'horaris i preus" cellspacing="0" cellpadding="2" border="1">
+<thead>
+<tr>
+<th>Dies</th>
+<th>Hores</th>
+<th>Preus</th>
+</tr>
+</thead>
+<tbody>
+   <tr>
+      <td rowspan = 1>de dilluns a divendres</td>
+      <td rowspan = 2>de 8 a 20 h</td>
+   </tr>
+   <tr>
+      <td rowspan = 1>dissabte i diumenge</td>
+   </tr>
+</tbody>
+</table>
+]]></xv:schedule>
+      <v:note rdf:parseType="Literal"><![CDATA[Es troba dins el centre comercial "La CUP" a la pl. Central del campus nord de la UPC, edificis C3 i C4.]]></v:note>
+      <v:email>
+         <rdf:Description rdf:about="mailto:notable@versin.com">
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Email"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+         </rdf:Description>
+      </v:email>
+      <v:url rdf:resource="http://www.restaurantenotable.com"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000103004012004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000102004012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000101004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012003003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0051401006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0052801006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012003003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004003003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050004007004003014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050003007004003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050002007004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050001007"/>
+      <dct:created>2000-10-05T00:00:00</dct:created>
+      <v:rev>2006-03-27T13:37:00</v:rev>
+   </v:VCard>
+  <v:VCard xmlns:v="http://www.w3.org/2006/vcard/ns#" xmlns:ical="http://www.w3.org/2002/12/cal/icaltzd#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xv="http://www.bcn.cat/data/v8y/xvcard#" xmlns:rel="http://www.bcn.cat/data/v8y/relations#" xmlns:tt="http://www.bcn.cat/data/v8y/teltypes#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dctypes="http://purl.org/dc/dcmitype/" rdf:about="http://www.bcn.cat/data/asia/locations#l280131454">
+      <dct:identifier>280131454</dct:identifier>
+      <v:fn>Restaurant Els Pollos de Llull *Ramon Turró</v:fn>
+      <xv:adapted>0</xv:adapted>
+      <v:adr>
+         <v:Address>
+            <v:street-address>C Ramon Turró 13</v:street-address>
+            <xv:streetAddress>
+               <xv:Street>
+                  <xv:streetName>C Ramon Turró</xv:streetName>
+                  <xv:streetNumber>13</xv:streetNumber>
+               </xv:Street>
+            </xv:streetAddress>
+            <xv:district>Sant Martí</xv:district>
+            <xv:neighborhood>la Vila Olímpica del Poblenou</xv:neighborhood>
+            <v:postal-code>08005</v:postal-code>
+            <v:locality>BARCELONA</v:locality>
+            <v:region>BARCELONA</v:region>
+            <v:country-name>ESPANYA</v:country-name>
+            <xv:geo rdf:resource="http://www.bcn.cat/data/asia/locations#l280131454-d2921e35"/>
+         </v:Address>
+      </v:adr>
+      <v:geo>
+         <v:Location rdf:about="http://www.bcn.cat/data/asia/locations#l280131454-d2921e35">
+            <v:latitude>41.39104871666667</v:latitude>
+            <v:longitude>2.190924222222222</v:longitude>
+         </v:Location>
+      </v:geo>
+      <v:tel>
+         <rdf:Description>
+            <rdf:value>+34 932213206</rdf:value>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Tel"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+         </rdf:Description>
+      </v:tel>
+      <v:tel>
+         <rdf:Description>
+            <rdf:value>+34 607350289</rdf:value>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Tel"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+         </rdf:Description>
+      </v:tel>
+      <v:tel>
+         <rdf:Description>
+            <rdf:value>+34 932213206</rdf:value>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Tel"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+         </rdf:Description>
+      </v:tel>
+      <xv:schedule rdf:parseType="Literal"><![CDATA[<table summary="Taula d'horaris" cellspacing="0" cellpadding="2" border="1">
+<thead>
+<tr>
+<th>Dies</th>
+<th>Hores</th>
+</tr>
+</thead>
+<tbody>
+   <tr>
+      <td rowspan = 1>dilluns, dimarts, dimecres, dijous i diumenges</td>
+      <td rowspan = 1>de 13:00 h a 23:00 h</td>
+   </tr>
+   <tr>
+      <td rowspan = 1>divendres i dissabtes</td>
+      <td rowspan = 1>de 13:00 h a 00:00 h</td>
+   </tr>
+</tbody>
+</table>
+]]></xv:schedule>
+      <v:note rdf:parseType="Literal"><![CDATA[En cas d'optar per aliments sense gluten es convenient sol·licitar-ho en el moment de fer la reserva.]]></v:note>
+      <v:url rdf:resource="http://www.elspollos.com"/>
+      <v:email>
+         <rdf:Description rdf:about="mailto:info@elspollos.com">
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Email"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+         </rdf:Description>
+      </v:email>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000102004012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000101004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000102008002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000101008"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010402002033"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010401002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010402002064"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010401002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0011001087"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0051401006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0052801006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050004007004003014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050003007004003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050002007004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050001007"/>
+      <dct:created>2000-10-06T00:00:00</dct:created>
+      <v:rev>2015-05-05T16:57:00</v:rev>
+   </v:VCard>
+  <v:VCard xmlns:v="http://www.w3.org/2006/vcard/ns#" xmlns:ical="http://www.w3.org/2002/12/cal/icaltzd#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xv="http://www.bcn.cat/data/v8y/xvcard#" xmlns:rel="http://www.bcn.cat/data/v8y/relations#" xmlns:tt="http://www.bcn.cat/data/v8y/teltypes#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dctypes="http://purl.org/dc/dcmitype/" rdf:about="http://www.bcn.cat/data/asia/locations#l283174133">
+      <dct:identifier>283174133</dct:identifier>
+      <v:fn>Bar La Confiteria</v:fn>
+      <xv:adapted>0</xv:adapted>
+      <v:adr>
+         <v:Address>
+            <v:street-address>Sant Pau 128</v:street-address>
+            <xv:streetAddress>
+               <xv:Street>
+                  <xv:streetName>Sant Pau</xv:streetName>
+                  <xv:streetNumber>128</xv:streetNumber>
+               </xv:Street>
+            </xv:streetAddress>
+            <xv:district>Ciutat Vella</xv:district>
+            <xv:neighborhood>el Raval</xv:neighborhood>
+            <v:postal-code>08001</v:postal-code>
+            <v:locality>BARCELONA</v:locality>
+            <v:region>BARCELONA</v:region>
+            <v:country-name>ESPANYA</v:country-name>
+            <xv:geo rdf:resource="http://www.bcn.cat/data/asia/locations#l283174133-d2681e35"/>
+         </v:Address>
+      </v:adr>
+      <v:geo>
+         <v:Location rdf:about="http://www.bcn.cat/data/asia/locations#l283174133-d2681e35">
+            <v:latitude>41.37548766111111</v:latitude>
+            <v:longitude>2.1679224166666664</v:longitude>
+         </v:Location>
+      </v:geo>
+      <v:tel>
+         <rdf:Description>
+            <rdf:value>+34 93 443 0458</rdf:value>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Tel"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+         </rdf:Description>
+      </v:tel>
+      <v:email>
+         <rdf:Description rdf:about="mailto:info.laconfiteria@gmail.com">
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Email"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+         </rdf:Description>
+      </v:email>
+      <v:url rdf:resource="http://www.myspace.com/laconfiteria"/>
+      <dct:relation>
+         <dctypes:Image rdf:about="http://w10.bcn.cat/APPS/asiw/ObtenerImagen?eId=283174133&amp;vId=2&amp;lId=1&amp;def=N">
+            <dct:title>Foto</dct:title>
+         </dctypes:Image>
+      </dct:relation>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0013003002000003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0013002002000"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0013001002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040203001001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040202001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040201001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0055003000000002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0055002000000"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0055001000"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000102004013"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000101004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000102006014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000101006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000103006005001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000102006005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000101006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0061101002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0061101010"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103004005002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102004005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103004014002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102004014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012003000"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0051401004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0051401006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0052801006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054303002001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054302002001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054301002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003004005002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002004005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003004014002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002004014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012003000"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004003000"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054903001001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054902001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054901001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0058103004025001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0058102004025"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0058101004"/>
+      <dct:created>2000-10-09T00:00:00</dct:created>
+      <v:rev>2014-02-26T10:44:00</v:rev>
+   </v:VCard>
+  <v:VCard xmlns:v="http://www.w3.org/2006/vcard/ns#" xmlns:ical="http://www.w3.org/2002/12/cal/icaltzd#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xv="http://www.bcn.cat/data/v8y/xvcard#" xmlns:rel="http://www.bcn.cat/data/v8y/relations#" xmlns:tt="http://www.bcn.cat/data/v8y/teltypes#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dctypes="http://purl.org/dc/dcmitype/" rdf:about="http://www.bcn.cat/data/asia/locations#l291123115">
+      <dct:identifier>291123115</dct:identifier>
+      <v:fn>Abba Sants Hotel - HB-004078</v:fn>
+      <xv:section>Restaurant Amalur</xv:section>
+      <xv:adapted>0</xv:adapted>
+      <v:adr>
+         <v:Address>
+            <v:street-address>C Numància 32</v:street-address>
+            <xv:streetAddress>
+               <xv:Street>
+                  <xv:streetName>C Numància</xv:streetName>
+                  <xv:streetNumber>32</xv:streetNumber>
+               </xv:Street>
+            </xv:streetAddress>
+            <xv:district>Sants-Montjuïc</xv:district>
+            <xv:neighborhood>Sants</xv:neighborhood>
+            <v:postal-code>08029</v:postal-code>
+            <v:locality>BARCELONA</v:locality>
+            <v:region>BARCELONA</v:region>
+            <v:country-name>ESPANYA</v:country-name>
+            <xv:geo rdf:resource="http://www.bcn.cat/data/asia/locations#l291123115-d2111e35"/>
+         </v:Address>
+      </v:adr>
+      <v:geo>
+         <v:Location rdf:about="http://www.bcn.cat/data/asia/locations#l291123115-d2111e35">
+            <v:latitude>41.38256868055556</v:latitude>
+            <v:longitude>2.140019166666667</v:longitude>
+         </v:Location>
+      </v:geo>
+      <v:tel>
+         <rdf:Description>
+            <rdf:value>+34 936003131</rdf:value>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Tel"/>
+            <rdf:type rdf:resource="http://www.bcn.cat/data/v8y/teltypes#Main"/>
+         </rdf:Description>
+      </v:tel>
+      <v:tel>
+         <rdf:Description>
+            <rdf:value>+34 936003101</rdf:value>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Tel"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+         </rdf:Description>
+      </v:tel>
+      <xv:schedule rdf:parseType="Literal"><![CDATA[<table summary="Taula d'horaris" cellspacing="0" cellpadding="2" border="1">
+<thead>
+<tr>
+<th>Dies</th>
+<th>Hores</th>
+</tr>
+</thead>
+<tbody>
+   <tr>
+      <td rowspan = 1>de dilluns a diumenge<br>i festius</td>
+      <td rowspan = 1>de 13 a 16 h  <BR> i de 20 a 23 h</td>
+   </tr>
+</tbody>
+</table>
+]]></xv:schedule>
+      <v:url rdf:resource="http://www.abbahoteles.com"/>
+      <v:email>
+         <rdf:Description rdf:about="mailto:abbasants@abbahoteles.com">
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Email"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+         </rdf:Description>
+      </v:email>
+      <dct:isPartOf rdf:resource="http://www.bcn.cat/data/asia/locations#l273135303"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000102004012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000101004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010903001001003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010902001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010901001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0011001018"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0011301002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040104012001001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0051401006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0052801006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054303005003003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054302005003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054301005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062004012001001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062204004001001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050004007004003014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050003007004003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050002007004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050001007"/>
+      <dct:created>2000-10-17T00:00:00</dct:created>
+      <v:rev>2015-07-16T11:41:00</v:rev>
+   </v:VCard>
+  <v:VCard xmlns:v="http://www.w3.org/2006/vcard/ns#" xmlns:ical="http://www.w3.org/2002/12/cal/icaltzd#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xv="http://www.bcn.cat/data/v8y/xvcard#" xmlns:rel="http://www.bcn.cat/data/v8y/relations#" xmlns:tt="http://www.bcn.cat/data/v8y/teltypes#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dctypes="http://purl.org/dc/dcmitype/" rdf:about="http://www.bcn.cat/data/asia/locations#l298100054">
+      <dct:identifier>298100054</dct:identifier>
+      <v:fn>Centro Riojano de Barcelona</v:fn>
+      <xv:section>Bar Restaurant Casa de La Rioja</xv:section>
+      <xv:adapted>1</xv:adapted>
+      <v:adr>
+         <v:Address>
+            <v:street-address>Peu de la Creu 8*10</v:street-address>
+            <xv:streetAddress>
+               <xv:Street>
+                  <xv:streetName>Peu de la Creu</xv:streetName>
+                  <xv:streetNumber>8*10</xv:streetNumber>
+               </xv:Street>
+            </xv:streetAddress>
+            <xv:district>Ciutat Vella</xv:district>
+            <xv:neighborhood>el Raval</xv:neighborhood>
+            <v:postal-code>08001</v:postal-code>
+            <v:locality>BARCELONA</v:locality>
+            <v:region>BARCELONA</v:region>
+            <v:country-name>ESPANYA</v:country-name>
+            <xv:geo rdf:resource="http://www.bcn.cat/data/asia/locations#l298100054-d1395e35"/>
+         </v:Address>
+      </v:adr>
+      <v:geo>
+         <v:Location rdf:about="http://www.bcn.cat/data/asia/locations#l298100054-d1395e35">
+            <v:latitude>41.38147130833333</v:latitude>
+            <v:longitude>2.1673136666666664</v:longitude>
+         </v:Location>
+      </v:geo>
+      <v:tel>
+         <rdf:Description>
+            <rdf:value>+34 934430854</rdf:value>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Tel"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+         </rdf:Description>
+      </v:tel>
+      <v:tel>
+         <rdf:Description>
+            <rdf:value>+34 934423827</rdf:value>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Tel"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+         </rdf:Description>
+      </v:tel>
+      <v:agent>
+         <v:Name>
+            <v:given-name>Antonio</v:given-name>
+            <v:family-name>Arribil.líaga</v:family-name>
+            <v:honorific-prefix>Sr.</v:honorific-prefix>
+         </v:Name>
+      </v:agent>
+      <xv:schedule rdf:parseType="Literal"><![CDATA[<table summary="Taula d'horaris" cellspacing="0" cellpadding="2" border="1">
+<thead>
+<tr>
+<th>Dies</th>
+<th>Hores</th>
+</tr>
+</thead>
+<tbody>
+   <tr>
+      <td rowspan = 1>De dilluns a diumenges</td>
+      <td rowspan = 1>de 07:30 h a 00:00 h</td>
+   </tr>
+</tbody>
+</table>
+]]></xv:schedule>
+      <dct:isPartOf rdf:resource="http://www.bcn.cat/data/asia/locations#l92182092202"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000102004012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000101004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000102004013"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000101004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010402002052"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010401002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010501001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010903001001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010902001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010901001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010903001001007"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010902001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010901001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0011301002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012003000"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040104012001001005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040104012001001014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0051401006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0052801006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054303005003005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054302005003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054301005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054303005003012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054302005003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054301005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012003000"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062004012001001005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062004012001001014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004003000"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062204004001001005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062204004001001014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050004007004003014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050003007004003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050002007004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050001007"/>
+      <dct:created>2000-10-24T00:00:00</dct:created>
+      <v:rev>2012-06-19T15:03:00</v:rev>
+   </v:VCard>
+  <v:VCard xmlns:v="http://www.w3.org/2006/vcard/ns#" xmlns:ical="http://www.w3.org/2002/12/cal/icaltzd#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xv="http://www.bcn.cat/data/v8y/xvcard#" xmlns:rel="http://www.bcn.cat/data/v8y/relations#" xmlns:tt="http://www.bcn.cat/data/v8y/teltypes#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dctypes="http://purl.org/dc/dcmitype/" rdf:about="http://www.bcn.cat/data/asia/locations#l304193639">
+      <dct:identifier>304193639</dct:identifier>
+      <v:fn>Restaurant Ugarit Bruniquer</v:fn>
+      <xv:adapted>0</xv:adapted>
+      <v:adr>
+         <v:Address>
+            <v:street-address>C Bruniquer 37</v:street-address>
+            <xv:streetAddress>
+               <xv:Street>
+                  <xv:streetName>C Bruniquer</xv:streetName>
+                  <xv:streetNumber>37</xv:streetNumber>
+               </xv:Street>
+            </xv:streetAddress>
+            <xv:district>Gràcia</xv:district>
+            <xv:neighborhood>la Vila de Gràcia</xv:neighborhood>
+            <v:postal-code>08024</v:postal-code>
+            <v:locality>BARCELONA</v:locality>
+            <v:region>BARCELONA</v:region>
+            <v:country-name>ESPANYA</v:country-name>
+            <xv:geo rdf:resource="http://www.bcn.cat/data/asia/locations#l304193639-d2777e35"/>
+         </v:Address>
+      </v:adr>
+      <v:geo>
+         <v:Location rdf:about="http://www.bcn.cat/data/asia/locations#l304193639-d2777e35">
+            <v:latitude>41.40514408333333</v:latitude>
+            <v:longitude>2.161355611111111</v:longitude>
+         </v:Location>
+      </v:geo>
+      <v:tel>
+         <rdf:Description>
+            <rdf:value>+34 932841214</rdf:value>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Tel"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+         </rdf:Description>
+      </v:tel>
+      <xv:schedule rdf:parseType="Literal"><![CDATA[<table summary="Taula d'horaris" cellspacing="0" cellpadding="2" border="1">
+<thead>
+<tr>
+<th>Dies</th>
+<th>Hores</th>
+</tr>
+</thead>
+<tbody>
+   <tr>
+      <td rowspan = 1>dilluns, dimecres, dijous i diumenge</td>
+      <td rowspan = 1>de 13:00 h a 16:30 h i<BR>de 20:30 h a 00:30 h</td>
+   </tr>
+   <tr>
+      <td rowspan = 1>divendres i dissabte</td>
+      <td rowspan = 1>de 13:00 h a 16:30 h i<BR>de 20:30 h a 01:30 h</td>
+   </tr>
+</tbody>
+</table>
+]]></xv:schedule>
+      <v:url rdf:resource="http://www.ugaritrestaurantsirio.com"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000102004012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000101004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010902004011"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010901004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0011301002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040104012001004007"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040104012001004010"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0051401006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0052801006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054303005002008"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054302005002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054301005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054303005002010"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054302005002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054301005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062004012001004007"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062004012001004010"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062204004001004007"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062204004001004010"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050004007004003014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050003007004003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050002007004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050001007"/>
+      <dct:created>2000-10-30T00:00:00</dct:created>
+      <v:rev>2009-04-02T12:54:00</v:rev>
+   </v:VCard>
+  <v:VCard xmlns:v="http://www.w3.org/2006/vcard/ns#" xmlns:ical="http://www.w3.org/2002/12/cal/icaltzd#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xv="http://www.bcn.cat/data/v8y/xvcard#" xmlns:rel="http://www.bcn.cat/data/v8y/relations#" xmlns:tt="http://www.bcn.cat/data/v8y/teltypes#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dctypes="http://purl.org/dc/dcmitype/" rdf:about="http://www.bcn.cat/data/asia/locations#l305095033">
+      <dct:identifier>305095033</dct:identifier>
+      <v:fn>Restaurant Baravins</v:fn>
+      <xv:adapted>1</xv:adapted>
+      <v:adr>
+         <v:Address>
+            <v:street-address>C Comte d'Urgell 196</v:street-address>
+            <xv:streetAddress>
+               <xv:Street>
+                  <xv:streetName>C Comte d'Urgell</xv:streetName>
+                  <xv:streetNumber>196</xv:streetNumber>
+               </xv:Street>
+            </xv:streetAddress>
+            <xv:district>Eixample</xv:district>
+            <xv:neighborhood>l'Antiga Esquerra de l'Eixample</xv:neighborhood>
+            <v:postal-code>08036</v:postal-code>
+            <v:locality>BARCELONA</v:locality>
+            <v:region>BARCELONA</v:region>
+            <v:country-name>ESPANYA</v:country-name>
+            <xv:geo rdf:resource="http://www.bcn.cat/data/asia/locations#l305095033-d1259e35"/>
+         </v:Address>
+      </v:adr>
+      <v:geo>
+         <v:Location rdf:about="http://www.bcn.cat/data/asia/locations#l305095033-d1259e35">
+            <v:latitude>41.38799417777778</v:latitude>
+            <v:longitude>2.151068638888889</v:longitude>
+         </v:Location>
+      </v:geo>
+      <v:tel>
+         <rdf:Description>
+            <rdf:value>+34 934515172</rdf:value>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Tel"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+         </rdf:Description>
+      </v:tel>
+      <xv:schedule rdf:parseType="Literal"><![CDATA[<table summary="Taula d'horaris" cellspacing="0" cellpadding="2" border="1">
+<thead>
+<tr>
+<th>Dies</th>
+<th>Hores</th>
+</tr>
+</thead>
+<tbody>
+   <tr>
+      <td rowspan = 1>de dilluns a divendres</td>
+      <td rowspan = 1>de 13 a 16 h <br>i de 20 a 1.30 h</td>
+   </tr>
+   <tr>
+      <td rowspan = 1>dissabte</td>
+      <td rowspan = 1>de 20 a 1.30 h</td>
+   </tr>
+</tbody>
+</table>
+]]></xv:schedule>
+      <v:email>
+         <rdf:Description rdf:about="mailto:baravins@teleline.es">
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Email"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+         </rdf:Description>
+      </v:email>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000102004012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000101004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010402002001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010401002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010402002002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010401002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010402002003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010401002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010402002039"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010401002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010501001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010902001002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010901001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0011301002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012002016"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012002017"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040104012001002004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012001002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0051401006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0052801006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0052801007"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0052801009"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054303005004003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054302005004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054301005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054303005005004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054302005005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054301005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054303005005005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054302005005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054301005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012002016"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012002017"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062004012001002004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012001002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004002016"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004002017"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062204004001002004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004001002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050004007004003014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050003007004003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050002007004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050001007"/>
+      <dct:created>2000-10-31T00:00:00</dct:created>
+      <v:rev>2006-03-31T04:14:00</v:rev>
+   </v:VCard>
+  <v:VCard xmlns:v="http://www.w3.org/2006/vcard/ns#" xmlns:ical="http://www.w3.org/2002/12/cal/icaltzd#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xv="http://www.bcn.cat/data/v8y/xvcard#" xmlns:rel="http://www.bcn.cat/data/v8y/relations#" xmlns:tt="http://www.bcn.cat/data/v8y/teltypes#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dctypes="http://purl.org/dc/dcmitype/" rdf:about="http://www.bcn.cat/data/asia/locations#l334210800">
+      <dct:identifier>334210800</dct:identifier>
+      <v:fn>Restaurant Las Guindas</v:fn>
+      <xv:adapted>0</xv:adapted>
+      <v:adr>
+         <v:Address>
+            <v:street-address>C Sant Pau 126</v:street-address>
+            <xv:streetAddress>
+               <xv:Street>
+                  <xv:streetName>C Sant Pau</xv:streetName>
+                  <xv:streetNumber>126</xv:streetNumber>
+               </xv:Street>
+            </xv:streetAddress>
+            <xv:district>Ciutat Vella</xv:district>
+            <xv:neighborhood>el Raval</xv:neighborhood>
+            <v:postal-code>08001</v:postal-code>
+            <v:locality>BARCELONA</v:locality>
+            <v:region>BARCELONA</v:region>
+            <v:country-name>ESPANYA</v:country-name>
+            <xv:geo rdf:resource="http://www.bcn.cat/data/asia/locations#l334210800-d1260e35"/>
+         </v:Address>
+      </v:adr>
+      <v:geo>
+         <v:Location rdf:about="http://www.bcn.cat/data/asia/locations#l334210800-d1260e35">
+            <v:latitude>41.375554372222226</v:latitude>
+            <v:longitude>2.168013722222222</v:longitude>
+         </v:Location>
+      </v:geo>
+      <xv:schedule rdf:parseType="Literal"><![CDATA[<table summary="Taula d'horaris" cellspacing="0" cellpadding="2" border="1">
+<thead>
+<tr>
+<th>Dies</th>
+<th>Hores</th>
+</tr>
+</thead>
+<tbody>
+   <tr>
+      <td rowspan = 1>dilluns</td>
+      <td rowspan = 1>de 13.30 a 16 h</td>
+   </tr>
+   <tr>
+      <td rowspan = 1>de dimarts a dissabte</td>
+      <td rowspan = 1>de 13.30 a 16 h i<br>de 21 a 01.00 h</td>
+   </tr>
+</tbody>
+</table>
+]]></xv:schedule>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000102004012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000101004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010402002014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010401002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012002009"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0051401006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0052801006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0052801014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054303005005009"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054302005005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054301005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012002009"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004002009"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050004007004003014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050003007004003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050002007004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050001007"/>
+      <dct:created>2000-11-29T00:00:00</dct:created>
+      <v:rev>2005-06-14T14:39:00</v:rev>
+   </v:VCard>
+  <v:VCard xmlns:v="http://www.w3.org/2006/vcard/ns#" xmlns:ical="http://www.w3.org/2002/12/cal/icaltzd#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xv="http://www.bcn.cat/data/v8y/xvcard#" xmlns:rel="http://www.bcn.cat/data/v8y/relations#" xmlns:tt="http://www.bcn.cat/data/v8y/teltypes#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dctypes="http://purl.org/dc/dcmitype/" rdf:about="http://www.bcn.cat/data/asia/locations#l39092532">
+      <dct:identifier>39092532</dct:identifier>
+      <v:fn>Restaurant Gran Babilonia</v:fn>
+      <xv:adapted>0</xv:adapted>
+      <v:adr>
+         <v:Address>
+            <v:street-address>C Santaló 125</v:street-address>
+            <xv:streetAddress>
+               <xv:Street>
+                  <xv:streetName>C Santaló</xv:streetName>
+                  <xv:streetNumber>125</xv:streetNumber>
+               </xv:Street>
+            </xv:streetAddress>
+            <xv:district>Sarrià-Sant Gervasi</xv:district>
+            <xv:neighborhood>Sant Gervasi - Galvany</xv:neighborhood>
+            <v:postal-code>08021</v:postal-code>
+            <v:locality>BARCELONA</v:locality>
+            <v:region>BARCELONA</v:region>
+            <v:country-name>ESPANYA</v:country-name>
+            <xv:geo rdf:resource="http://www.bcn.cat/data/asia/locations#l39092532-d2141e35"/>
+         </v:Address>
+      </v:adr>
+      <v:geo>
+         <v:Location rdf:about="http://www.bcn.cat/data/asia/locations#l39092532-d2141e35">
+            <v:latitude>41.39921979166667</v:latitude>
+            <v:longitude>2.1411856666666664</v:longitude>
+         </v:Location>
+      </v:geo>
+      <v:tel>
+         <rdf:Description>
+            <rdf:value>+34 932010904</rdf:value>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Tel"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+         </rdf:Description>
+      </v:tel>
+      <v:tel>
+         <rdf:Description>
+            <rdf:value>+34 934142195</rdf:value>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Tel"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+         </rdf:Description>
+      </v:tel>
+      <xv:schedule rdf:parseType="Literal"><![CDATA[<table summary="Taula d'horaris" cellspacing="0" cellpadding="2" border="1">
+<thead>
+<tr>
+<th>Dies</th>
+<th>Hores</th>
+</tr>
+</thead>
+<tbody>
+   <tr>
+      <td rowspan = 1>De dilluns a dissabte</td>
+      <td rowspan = 1>de 13:00 h a 17:00 h i<BR>de 20:00 h a 00:30 h</td>
+   </tr>
+</tbody>
+</table>
+]]></xv:schedule>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000102004012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0000101004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010902004010"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010901004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010903006003001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010902006003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010901006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010903006003004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010902006003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0010901006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0011301002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040104012001001011"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040104012001004007"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040104012001006001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040103012001006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040102012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0040101012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0051401006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0052801006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054303005002008"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054302005002"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054301005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054303005003010"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054302005003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0054301005"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062004012001001011"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062004012001004007"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062004012001006001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062003012001006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062002012001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062001012"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062204004001001011"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004001001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062204004001004007"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004001004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062204004001006001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062203004001006"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062202004001"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0062201004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050004007004003014"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050003007004003"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050002007004"/>
+      <v:category rdf:resource="http://www.bcn.cat/data/asia/categories#c0050001007"/>
+      <dct:created>2000-02-08T00:00:00</dct:created>
+      <v:rev>2012-06-19T15:02:00</v:rev>
+   </v:VCard>
+</rdf:RDF>

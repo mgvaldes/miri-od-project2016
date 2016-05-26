@@ -1,10 +1,22 @@
 import rdflib
 
-# g = rdflib.Graph()
-# # result = g.parse("http://www.w3.org/People/Berners-Lee/card")
+g = rdflib.Graph()
+# g.parse("tim.rdf")
+#
+# qres = g.query(
+#     """SELECT DISTINCT ?bname ?cname
+#        WHERE {
+#           ?b foaf:name ?bname .
+#           ?b foaf:based_near ?c .
+#           ?c geo:lat ?cname .
+#        }""")
+#
+# for row in qres:
+#     print("%s %s" % row)
+
 # result = g.parse("https://bigasterisk.com/foaf.rdf")
 #
-# # g.parse("restaurants.rdf")
+g.parse("restaurants.rdf")
 #
 # print("graph has %s statements." % len(g))
 # # prints graph has 79 statements.
@@ -13,46 +25,63 @@ import rdflib
 #     print subj + ' ' + pred + ' ' + obj
 
 
-g = rdflib.Graph()
+# g = rdflib.Graph()
+#
+# # ... add some triples to g somehow ...
+# g.parse("restaurants_1.rdf")
+#
+# # tapes = rdflib.Literal(u'Tapes', lang='ca')
+#
+# # qres = g.query(
+# #     """SELECT DISTINCT ?aname ?bname
+# #        WHERE {
+# #           ?a v:category ?b .
+# #           ?a v:fn ?aname .
+# #           ?b skos:prefLabel ?bname .
+# #        }""", initBindings={'bname': tapes})
+#
+# # qres = g.query(
+# #     """SELECT DISTINCT ?bname
+# #        WHERE {
+# #           ?b skos:prefLabel ?bname .
+# #        }""")
+# #
+# # # for row in qres:
+# # #     print("%s belongs to category %s" % row)
 
-# ... add some triples to g somehow ...
-g.parse("restaurants_1.rdf")
+qres = g.query(
+    """SELECT DISTINCT ?bname
+       WHERE {
+          ?b v:fn ?bname .
+       }""")
 
-# tapes = rdflib.Literal(u'Tapes', lang='ca')
+print len(qres)
 
+qres = g.query(
+    """SELECT DISTINCT ?bname
+       WHERE {
+          ?b skos:prefLabel ?bname .
+       }""")
+
+print len(qres)
+
+# #
+# # i = 0
+# #
+# # for row in qres:
+# #     print("Category #" + str(i) + ": %s" % row)
+# #     i += 1
+# #
+# # print "---------------------------------------------------"
+#
 # qres = g.query(
-#     """SELECT DISTINCT ?aname ?bname
+#     """SELECT DISTINCT ?bname ?aname
 #        WHERE {
 #           ?a v:category ?b .
 #           ?a v:fn ?aname .
 #           ?b skos:prefLabel ?bname .
-#        }""", initBindings={'bname': tapes})
-
-# qres = g.query(
-#     """SELECT DISTINCT ?bname
-#        WHERE {
-#           ?b skos:prefLabel ?bname .
-#        }""")
-#
-# # for row in qres:
-# #     print("%s belongs to category %s" % row)
-#
-# i = 0
+#        }
+#        ORDER BY ?bname""")
 #
 # for row in qres:
-#     print("Category #" + str(i) + ": %s" % row)
-#     i += 1
-#
-# print "---------------------------------------------------"
-
-qres = g.query(
-    """SELECT DISTINCT ?bname ?aname
-       WHERE {
-          ?a v:category ?b .
-          ?a v:fn ?aname .
-          ?b skos:prefLabel ?bname .
-       }
-       ORDER BY ?bname""")
-
-for row in qres:
-    print("Category '%s' contains '%s'" % row)
+#     print("Category '%s' contains '%s'" % row)

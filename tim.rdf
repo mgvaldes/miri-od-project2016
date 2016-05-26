@@ -1,0 +1,129 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:cc="http://creativecommons.org/ns#"
+ xmlns:sioc="http://rdfs.org/sioc/ns#"
+ xmlns:s="http://www.w3.org/2000/01/rdf-schema#"
+ xmlns:con="http://www.w3.org/2000/10/swap/pim/contact#"
+ xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+ xmlns:owl="http://www.w3.org/2002/07/owl#"
+ xmlns:cert="http://www.w3.org/ns/auth/cert#"
+ xmlns:space="http://www.w3.org/ns/pim/space#"
+ xmlns:solid="https://www.w3.org/ns/solid/terms#"
+ xmlns:doap="http://usefulinc.com/ns/doap#"
+ xmlns:dct="http://purl.org/dc/terms/">
+    <rdf:Description rdf:about="/DesignIssues/Overview.html">
+        <dc:title>Design Issues for the World Wide Web</dc:title>
+        <foaf:maker rdf:resource="#i"/>
+    </rdf:Description>
+    <foaf:PersonalProfileDocument rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/"/>
+        <dc:title>Tim Berners-Lee's FOAF file</dc:title>
+        <foaf:maker rdf:resource="#i"/>
+        <foaf:primaryTopic rdf:resource="#i"/>
+    </foaf:PersonalProfileDocument>
+    <con:Male rdf:about="#i">
+        <sioc:avatar rdf:resource="images/timbl-image-by-Coz-cropped.jpg"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+        <s:label>Tim Berners-Lee</s:label>
+        <s:seeAlso rdf:resource="https://timbl.com/timbl/Public/friends.ttl"/>
+        <s:seeAlso rdf:resource="/2007/11/Talks/search/query?date=All+past+and+future+talks&amp;event=None&amp;activity=None&amp;name=Tim+Berners-Lee&amp;country=None&amp;language=None&amp;office=None&amp;rdfOnly=yes&amp;submit=Submit"/>
+        <con:assistant rdf:resource="#amy"/>
+        <con:homePage rdf:resource="./"/>
+        <con:office>
+            <rdf:Description>
+                <con:address>
+                    <rdf:Description>
+                        <con:city>Cambridge</con:city>
+                        <con:country>USA</con:country>
+                        <con:postalCode>02139</con:postalCode>
+                        <con:street>32 Vassar Street</con:street>
+                        <con:street2>MIT CSAIL Room 32-G524</con:street2>
+                    </rdf:Description>
+                </con:address>
+                <con:phone rdf:resource="tel:+1-617-253-5702"/>
+                <geo:location>
+                    <rdf:Description>
+                       <geo:lat>42.361860</geo:lat><geo:long>-71.091840</geo:long>
+                    </rdf:Description>
+                </geo:location>
+            </rdf:Description>
+        </con:office>
+        <con:preferredURI>https://www.w3.org/People/Berners-Lee/card#i</con:preferredURI>
+        <con:publicHomePage rdf:resource="./"/>
+        <owl:sameAs rdf:resource="http://www.advogato.org/person/timbl/foaf.rdf#me"/>
+        <cert:key>
+            <cert:RSAPublicKey>
+                <cert:exponent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">65537</cert:exponent>
+                <cert:modulus rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">ebe99c737bd3670239600547e5e2eb1d1497da39947b6576c3c44ffeca32cf0f2f7cbee3c47001278a90fc7fc5bcf292f741eb1fcd6bbe7f90650afb519cf13e81b2bffc6e02063ee5a55781d420b1dfaf61c15758480e66d47fb0dcb5fa7b9f7f1052e5ccbd01beee9553c3b6b51f4daf1fce991294cd09a3d1d636bc6c7656e4455d0aff06daec740ed0084aa6866fcae1359de61cc12dbe37c8fa42e977c6e727a8258bb9a3f265b27e3766fe0697f6aa0bcc81c3f026e387bd7bbc81580dc1853af2daa099186a9f59da526474ef6ec0a3d84cf400be3261b6b649dea1f78184862d34d685d2d587f09acc14cd8e578fdd2283387821296f0af39b8d8845</cert:modulus>
+            </cert:RSAPublicKey>
+        </cert:key>
+        <space:preferencesFile rdf:resource="https://timbl.com/timbl/Data/preferences.n3"/>
+        <space:storage rdf:resource="https://timbl.databox.me/"/>
+        <foaf:account rdf:resource="http://en.wikipedia.org/wiki/User:Timbl"/>
+        <foaf:account rdf:resource="http://twitter.com/timberners_lee"/>
+        <foaf:account rdf:resource="http://www.reddit.com/user/timbl/"/>
+        <foaf:based_near>
+            <rdf:Description>
+               <geo:lat>42.361860</geo:lat><geo:long>-71.091840</geo:long>
+            </rdf:Description>
+        </foaf:based_near>
+        <foaf:family_name>Berners-Lee</foaf:family_name>
+        <foaf:givenname>Timothy</foaf:givenname>
+        <foaf:homepage rdf:resource="./"/>
+        <foaf:img rdf:resource="/Press/Stock/Berners-Lee/2001-europaeum-eighth.jpg"/>
+        <foaf:mbox rdf:resource="mailto:timbl@w3.org"/>
+        <foaf:mbox_sha1sum>965c47c5a70db7407210cef6e4e6f5374a525c5c</foaf:mbox_sha1sum>
+        <foaf:name>Timothy Berners-Lee</foaf:name>
+        <foaf:nick>TimBL</foaf:nick>
+        <foaf:nick>timbl</foaf:nick>
+        <foaf:openid rdf:resource="./"/>
+        <foaf:phone rdf:resource="tel:+1-(617)-253-5702"/>
+        <foaf:title>Sir</foaf:title>
+        <foaf:weblog rdf:resource="http://dig.csail.mit.edu/breadcrumbs/blog/4"/>
+        <foaf:workplaceHomepage rdf:resource="/"/>
+        <solid:publicTypeIndex rdf:resource="https://timbl.com/timbl/Public/PublicTypeIndex.ttl"/>
+    </con:Male>
+    <rdf:Description rdf:about="http://dig.csail.mit.edu/2005/ajar/ajaw/data#Tabulator">
+       <doap:developer rdf:resource="#i"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://dig.csail.mit.edu/2007/01/camp/data#course">
+       <foaf:maker rdf:resource="#i"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://dig.csail.mit.edu/breadcrumbs/blog/4">
+        <dc:title>timbl's blog on DIG</dc:title>
+        <s:seeAlso rdf:resource="http://dig.csail.mit.edu/breadcrumbs/blog/feed/4"/>
+        <foaf:maker rdf:resource="#i"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://dig.csail.mit.edu/data#DIG">
+       <foaf:member rdf:resource="#i"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://wiki.ontoworld.org/index.php/_IRW2006">
+        <dc:title>Identity, Reference and the Web workshop 2006</dc:title>
+        <con:participant rdf:resource="#i"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.ecs.soton.ac.uk/~dt2/dlstuff/www2006_data#panel-panelk01">
+        <s:label>The Next Wave of the Web (Plenary Panel)</s:label>
+        <con:participant rdf:resource="#i"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.w3.org/2000/10/swap/data#Cwm">
+       <doap:developer rdf:resource="#i"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.w3.org/2011/Talks/0331-hyderabad-tbl/data#talk">
+        <dct:title>Designing the Web for an Open Society</dct:title>
+        <foaf:maker rdf:resource="#i"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.w3.org/People/Berners-Lee/card#i">
+       <owl:sameAs rdf:resource="#i"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.w3.org/data#W3C">
+       <foaf:member rdf:resource="#i"/>
+    </rdf:Description>
+    <foaf:PersonalProfileDocument rdf:about="https://timbl.com/timbl/Public/friends.ttl">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/"/>
+        <dc:title>Tim Berners-Lee's editable FOAF file</dc:title>
+        <foaf:maker rdf:resource="#i"/>
+        <foaf:primaryTopic rdf:resource="#i"/>
+    </foaf:PersonalProfileDocument>
+</rdf:RDF>
