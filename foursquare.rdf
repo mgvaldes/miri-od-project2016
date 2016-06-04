@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:cont="http://restaurants.recommender.es/property/contact/"
+   xmlns:loc="http://restaurants.recommender.es/property/location/"
+   xmlns:rate="http://restaurants.recommender.es/property/rate/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rest="http://restaurants.recommender.es/property/restaurant/"
+>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Al_Punt_(location)">
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/location/Location"/>
+    <loc:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.39363233116498</loc:latitude>
+    <loc:country>España</loc:country>
+    <loc:city>Barcelona</loc:city>
+    <loc:address>Girona, 51</loc:address>
+    <loc:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.1726322174072266</loc:longitude>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Pastisseria_La_Riera_(location)">
+    <loc:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.36915969848633</loc:latitude>
+    <loc:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.1311590671539307</loc:longitude>
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/location/Location"/>
+    <loc:country>España</loc:country>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Pastisseria_La_Riera_(restaurant)">
+    <rest:location rdf:resource="http://restaurants.recommender.es/resource/Pastisseria_La_Riera_(location)"/>
+    <rest:contact rdf:resource="http://restaurants.recommender.es/resource/Pastisseria_La_Riera_(contact)"/>
+    <rest:name>Pastisseria La Riera</rest:name>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Restaurant"/>
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/restaurant/Restaurant"/>
+    <rest:rate rdf:resource="http://restaurants.recommender.es/resource/Pastisseria_La_Riera_(rate)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Restaurant_Al_Magribia_(restaurant)">
+    <rest:location rdf:resource="http://restaurants.recommender.es/resource/Restaurant_Al_Magribia_(location)"/>
+    <rest:contact rdf:resource="http://restaurants.recommender.es/resource/Restaurant_Al_Magribia_(contact)"/>
+    <rest:name>Restaurant Al Magribia</rest:name>
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/restaurant/Restaurant"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Restaurant"/>
+    <rest:rate rdf:resource="http://restaurants.recommender.es/resource/Restaurant_Al_Magribia_(rate)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/property/restaurant/Restaurant">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Forn_de_pa_La_Riera_(location)">
+    <loc:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.36523636524509</loc:latitude>
+    <loc:country>España</loc:country>
+    <loc:address>Dr. Fleming</loc:address>
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/location/Location"/>
+    <loc:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.1276696583466723</loc:longitude>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/property/contact/email">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Cafeteria_Restaurant_Alexandra_(location)">
+    <loc:city>Barcelona</loc:city>
+    <loc:country>España</loc:country>
+    <loc:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.175072729482957</loc:longitude>
+    <loc:address>Diagonal, 287</loc:address>
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/location/Location"/>
+    <loc:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.40039416478169</loc:latitude>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Restaurant_Alastruey_(restaurant)">
+    <rest:rate rdf:resource="http://restaurants.recommender.es/resource/Restaurant_Alastruey_(rate)"/>
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/restaurant/Restaurant"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Restaurant"/>
+    <rest:location rdf:resource="http://restaurants.recommender.es/resource/Restaurant_Alastruey_(location)"/>
+    <rest:contact rdf:resource="http://restaurants.recommender.es/resource/Restaurant_Alastruey_(contact)"/>
+    <rest:name>Restaurant Alastruey</rest:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Forn_de_pa_La_Riera_(rate)">
+    <rate:price rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</rate:price>
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/rate/Rate"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Restaurant_Almogàvers_(location)">
+    <loc:city>Barcelona</loc:city>
+    <loc:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.1890158491874274</loc:longitude>
+    <loc:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.396441199960236</loc:latitude>
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/location/Location"/>
+    <loc:country>España</loc:country>
+    <loc:address>Almogàvers</loc:address>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/La_Riera_(restaurant)">
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/restaurant/Restaurant"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Restaurant"/>
+    <rest:location rdf:resource="http://restaurants.recommender.es/resource/La_Riera_(location)"/>
+    <rest:rate rdf:resource="http://restaurants.recommender.es/resource/La_Riera_(rate)"/>
+    <rest:contact rdf:resource="http://restaurants.recommender.es/resource/La_Riera_(contact)"/>
+    <rest:name>La Riera</rest:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/La_Riera_(contact)">
+    <cont:timetable>1:00 PM–4:00 PM Mon–Sat
+</cont:timetable>
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/contact/Contact"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Pastelería_La_Riera_(location)">
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/location/Location"/>
+    <loc:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.371378</loc:latitude>
+    <loc:country>España</loc:country>
+    <loc:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.128183</loc:longitude>
+    <loc:city>Barcelona</loc:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Restaurant_Alastruey_(location)">
+    <loc:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.1776066485590833</loc:longitude>
+    <loc:address>Mercaders, 24</loc:address>
+    <loc:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.385251752526955</loc:latitude>
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/location/Location"/>
+    <loc:country>España</loc:country>
+    <loc:city>Barcelona</loc:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Restaurant_Almogàvers_(rate)">
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/rate/Rate"/>
+    <rate:likes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</rate:likes>
+    <rate:price rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</rate:price>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/property/rate/likes">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/property/rate/score">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Al_Punt_(restaurant)">
+    <rest:rate rdf:resource="http://restaurants.recommender.es/resource/Al_Punt_(rate)"/>
+    <rest:contact rdf:resource="http://restaurants.recommender.es/resource/Al_Punt_(contact)"/>
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/restaurant/Restaurant"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Restaurant"/>
+    <rest:name>Al Punt</rest:name>
+    <rest:location rdf:resource="http://restaurants.recommender.es/resource/Al_Punt_(location)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Forn_de_pa_La_Riera_(restaurant)">
+    <rest:name>Forn de pa La Riera</rest:name>
+    <rest:location rdf:resource="http://restaurants.recommender.es/resource/Forn_de_pa_La_Riera_(location)"/>
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/restaurant/Restaurant"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Restaurant"/>
+    <rest:rate rdf:resource="http://restaurants.recommender.es/resource/Forn_de_pa_La_Riera_(rate)"/>
+    <rest:contact rdf:resource="http://restaurants.recommender.es/resource/Forn_de_pa_La_Riera_(contact)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Forn_de_pa_La_Riera_(contact)">
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/contact/Contact"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Cafeteria_Restaurant_Alexandra_(rate)">
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/rate/Rate"/>
+    <rate:price rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</rate:price>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/La_Riera_(location)">
+    <loc:address>Carreras i Candi, 51</loc:address>
+    <loc:address>Regent Mendieta, 15</loc:address>
+    <loc:country>España</loc:country>
+    <loc:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.127723</loc:longitude>
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/location/Location"/>
+    <loc:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.373183</loc:latitude>
+    <loc:city>Barcelona</loc:city>
+    <loc:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.37699976930637</loc:latitude>
+    <loc:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.1226009726524353</loc:longitude>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Pastelería_La_Riera_(restaurant)">
+    <rest:rate rdf:resource="http://restaurants.recommender.es/resource/Pastelería_La_Riera_(rate)"/>
+    <rest:location rdf:resource="http://restaurants.recommender.es/resource/Pastelería_La_Riera_(location)"/>
+    <rest:name>Pastelería La Riera</rest:name>
+    <rest:contact rdf:resource="http://restaurants.recommender.es/resource/Pastelería_La_Riera_(contact)"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Restaurant"/>
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/restaurant/Restaurant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Cafeteria_Restaurant_Alexandra_(restaurant)">
+    <rest:location rdf:resource="http://restaurants.recommender.es/resource/Cafeteria_Restaurant_Alexandra_(location)"/>
+    <rest:rate rdf:resource="http://restaurants.recommender.es/resource/Cafeteria_Restaurant_Alexandra_(rate)"/>
+    <rest:contact rdf:resource="http://restaurants.recommender.es/resource/Cafeteria_Restaurant_Alexandra_(contact)"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Restaurant"/>
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/restaurant/Restaurant"/>
+    <rest:name>Cafeteria Restaurant Alexandra</rest:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Pastelería_La_Riera_(rate)">
+    <rate:price rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</rate:price>
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/rate/Rate"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/La_Riera_(rate)">
+    <rate:likes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</rate:likes>
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/rate/Rate"/>
+    <rate:likes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</rate:likes>
+    <rate:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.9</rate:score>
+    <rate:price rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</rate:price>
+    <rate:price rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</rate:price>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/property/location/country">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/property/restaurant/location">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Restaurant_Almogàvers_(restaurant)">
+    <rest:name>Restaurant Almogàvers</rest:name>
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/restaurant/Restaurant"/>
+    <rest:rate rdf:resource="http://restaurants.recommender.es/resource/Restaurant_Almogàvers_(rate)"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Restaurant"/>
+    <rest:location rdf:resource="http://restaurants.recommender.es/resource/Restaurant_Almogàvers_(location)"/>
+    <rest:contact rdf:resource="http://restaurants.recommender.es/resource/Restaurant_Almogàvers_(contact)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/property/restaurant/name">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/property/contact/telephone">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Restaurant_Alastruey_(rate)">
+    <rate:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.0</rate:score>
+    <rate:likes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</rate:likes>
+    <rate:price rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</rate:price>
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/rate/Rate"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/property/rate/price">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/property/location/Location">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/property/contact/timetable">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Restaurant_Al_Magribia_(location)">
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/location/Location"/>
+    <loc:city>Barcelona</loc:city>
+    <loc:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.40802832825624</loc:latitude>
+    <loc:country>España</loc:country>
+    <loc:address>Carrer Arago 605</loc:address>
+    <loc:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.1861548779303184</loc:longitude>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/property/contact/Contact">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Cafeteria_Restaurant_Alexandra_(contact)">
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/contact/Contact"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Restaurant_Al_Magribia_(contact)">
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/contact/Contact"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Pastisseria_La_Riera_(rate)">
+    <rate:price rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</rate:price>
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/rate/Rate"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Al_Punt_(rate)">
+    <rate:price rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</rate:price>
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/rate/Rate"/>
+    <rate:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</rate:score>
+    <rate:likes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</rate:likes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/property/restaurant/belongsTo">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Pastelería_La_Riera_(contact)">
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/contact/Contact"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Restaurant_Al_Magribia_(rate)">
+    <rate:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.7</rate:score>
+    <rate:price rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</rate:price>
+    <rate:likes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</rate:likes>
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/rate/Rate"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Pastisseria_La_Riera_(contact)">
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/contact/Contact"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/property/location/address">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/property/location/city">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/property/location/latitude">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/property/restaurant/contact">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Al_Punt_(contact)">
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/contact/Contact"/>
+    <cont:timetable>1:00 PM–Midnight Mon–Sat
+</cont:timetable>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/property/location/longitude">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/property/rate/Rate">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/property/restaurant/rate">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Restaurant_Alastruey_(contact)">
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/contact/Contact"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://restaurants.recommender.es/resource/Restaurant_Almogàvers_(contact)">
+    <rdf:type rdf:resource="http://restaurants.recommender.es/property/contact/Contact"/>
+  </rdf:Description>
+</rdf:RDF>
