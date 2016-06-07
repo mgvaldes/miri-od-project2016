@@ -1,9 +1,9 @@
 import urllib
 import httplib2
 
-repository = 'rdf'
-graph      = 'http://restaurants.recommender.es/rdf/'
-filename   = 'restaurants.rdf'
+repository = ''
+graph      = 'http://restaurants.recommender.es/foursquare/'
+filename   = 'foursquare.rdf'
 # filename   = 'foursquare/restaurants_1.rdf'
 
 print("Loading %s into %s in Sesame" % (filename, graph))

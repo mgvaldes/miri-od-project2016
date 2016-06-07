@@ -65,8 +65,13 @@ def get_restaurant_from_content_response(content, binding_keys):
         if len(restaurants) > 0:
             last_restaurant = restaurants[len(restaurants)-1]
 
-            if (last_restaurant['restname'] == restaurant_dict['restname']):
-                last_restaurant['tel'] += ' / ' + restaurant_dict['tel']
+            if 'tel' in last_restaurant.keys():
+                if (last_restaurant['restname'] == restaurant_dict['restname']):
+                    last_restaurant['tel'] = last_restaurant['tel'] + ' / ' + restaurant_dict['tel']
+
+                    restaurants[len(restaurants) - 1] = last_restaurant
+                else:
+                    restaurants.append(restaurant_dict)
             else:
                 restaurants.append(restaurant_dict)
         else:
@@ -223,25 +228,28 @@ def get_integrated_restaurants():
                 integrated_restaurant['lng'] = foursquare_restaurant['lng']
 
                 # If foursquare provides timetable or schedule of restaurant use it because the rdf file data is in HTML format.
-                if foursquare_restaurant['timetable']:
+                if 'timetable' in foursquare_restaurant.keys():
                     integrated_restaurant['timetable'] = foursquare_restaurant['timetable']
                 else:
                     # Do format of timetable attribute and remove HTML.
                     print('')
 
                 # Check if foursquare returned this property, if not, set to 0
-                if foursquare_restaurant['price']:
+                if 'price' in foursquare_restaurant.keys():
                     integrated_restaurant['price'] = foursquare_restaurant['price']
                 else:
                     integrated_restaurant['price'] = 0
 
                 # Check if foursquare returned this property, if not, set to 0
-                if foursquare_restaurant['score']:
+                if 'score' in foursquare_restaurant.keys():
                     integrated_restaurant['score'] = foursquare_restaurant['score']
                 else:
-                    foursquare_restaurant['score'] = 0
+                    integrated_restaurant['score'] = 0
 
-                integrated_restaurant['likes'] = foursquare_restaurant['likes']
+                if 'likes' in foursquare_restaurant.keys():
+                    integrated_restaurant['likes'] = foursquare_restaurant['likes']
+                else:
+                    integrated_restaurant['likes'] = 0
 
                 integrated_restaurants.append(integrated_restaurant)
 
