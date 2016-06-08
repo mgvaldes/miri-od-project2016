@@ -214,8 +214,8 @@ def get_integrated_restaurants():
                 # print(foursquare_restaurant)
                 matches += 1
 
-                matched_results_file.write(str(restaurant) + '\n')
-                matched_results_file.write(str(max_similarity_result) + '\n')
+                matched_results_file.write(str(restaurant['restname']) + '\n')
+                matched_results_file.write(str(max_similarity_result['restname']) + '\n')
                 matched_results_file.write('-----------------------------------------------------------------------' + '\n')
 
                 # binding_keys = ['restname', 'country', 'city', 'address', 'tel', 'mail', 'timetable', 'category', 'lat', 'lng']
@@ -230,9 +230,9 @@ def get_integrated_restaurants():
                 # If foursquare provides timetable or schedule of restaurant use it because the rdf file data is in HTML format.
                 if 'timetable' in foursquare_restaurant.keys():
                     integrated_restaurant['timetable'] = foursquare_restaurant['timetable']
-                else:
-                    # Do format of timetable attribute and remove HTML.
-                    print('')
+                # else:
+                #     # Do format of timetable attribute and remove HTML.
+                #     print('')
 
                 # Check if foursquare returned this property, if not, set to 0
                 if 'price' in foursquare_restaurant.keys():

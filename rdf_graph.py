@@ -145,6 +145,10 @@ def add_restaurant_triples_to_graph(g, prefixes_dict, restaurant):
            prefixes_dict['rest']['classes']['Restaurant']['properties']['name']['uriref'],
            Literal(restaurant['restname'])))
 
+    g.add((restaurant_URIRef,
+           prefixes_dict['rest']['classes']['Restaurant']['properties']['belongsTo']['uriref'],
+           Literal(restaurant['category'])))
+
     # Creating Location class with restaurant's location information
     restaurant_location_URIRef = URIRef(
         prefixes_dict['res']['namespace'] + restaurant['restname'].replace(' ', '_') + '_(location)')

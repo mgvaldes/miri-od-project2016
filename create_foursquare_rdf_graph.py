@@ -97,6 +97,7 @@ def load_foursquare_venues_to_graph(g, prefixes_dict):
                     restaurant['lat'] = ''
                     restaurant['lng'] = ''
 
+                restaurant['category'] = ''
                 restaurant['timetable'] = ''
 
                 if 'hours' in venue:
