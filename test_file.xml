@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+	<head>
+		<variable name='restaurant'/>
+		<variable name='country'/>
+		<variable name='city'/>
+		<variable name='aaddressname'/>
+		<variable name='tel'/>
+		<variable name='mail'/>
+		<variable name='timetable'/>
+		<variable name='category'/>
+		<variable name='lat'/>
+		<variable name='lon'/>
+	</head>
+	<results>
+		<result>
+			<binding name='country'>
+				<literal>ESPANYA</literal>
+			</binding>
+			<binding name='mail'>
+				<uri>mailto:habanabarcelona@habanabarcelona.com</uri>
+			</binding>
+			<binding name='city'>
+				<literal>BARCELONA</literal>
+			</binding>
+			<binding name='restaurant'>
+				<literal>Bar Restaurant Habana Barcelona</literal>
+			</binding>
+			<binding name='tel'>
+				<literal>+34 932250263</literal>
+			</binding>
+			<binding name='lon'>
+				<literal>2.18853675</literal>
+			</binding>
+			<binding name='category'>
+				<literal xml:lang='ca'>Cultura i lleure</literal>
+			</binding>
+			<binding name='aaddressname'>
+				<literal>C Escar 1</literal>
+			</binding>
+			<binding name='lat'>
+				<literal>41.37539852222222</literal>
+			</binding>
+			<binding name='timetable'>
+				<literal datatype='http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral'>&amp;lt;table summary="Taula d'horaris" cellspacing="0" cellpadding="2" border="1"&amp;gt;
+&amp;lt;thead&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;th&amp;gt;Dies&amp;lt;/th&amp;gt;
+&amp;lt;th&amp;gt;Hores&amp;lt;/th&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/thead&amp;gt;
+&amp;lt;tbody&amp;gt;
+   &amp;lt;tr&amp;gt;
+      &amp;lt;td rowspan = 1&amp;gt;de dilluns a diumenge (festius tancat)&amp;lt;/td&amp;gt;
+      &amp;lt;td rowspan = 1&amp;gt;de 7.30 a 24 h&amp;lt;/td&amp;gt;
+   &amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;
+</literal>
+			</binding>
+		</result>
+	</results>
+</sparql>

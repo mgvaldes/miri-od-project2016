@@ -1,0 +1,21 @@
+PREFIX geo:  <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX xsd:  <http://www.w3.org/2001/XMLSchema#>
+PREFIX cont: <http://restaurants.recommender.es/property/contact/>
+PREFIX loc:  <http://restaurants.recommender.es/property/location/>
+PREFIX rate: <http://restaurants.recommender.es/property/rate/>
+PREFIX rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rest: <http://restaurants.recommender.es/property/restaurant/>
+PREFIX dbo:  <http://dbpedia.org/ontology/>
+
+SELECT DISTINCT ?restname
+WHERE {
+    ?rest a rest:Restaurant .
+    ?rest rest:name ?restname .
+    ?rest rest:location ?location .
+    ?location loc:latitude ?lat .
+    ?location loc:longitude ?lng .
+    FILTER( (41.379366025-xsd:float(?lat))*(41.379366025-xsd:float(?lat)) + (2.1723008888888886-xsd:float(?lng))*(2.1723008888888886-xsd:float(?lng))*(0.831939969105-(0.00853595*xsd:float(?lat))) < 0.0020219493461806057363177376485694 ) .
+    FILTER regex(?restname, "al Punt", "i")
+}
+LIMIT 100

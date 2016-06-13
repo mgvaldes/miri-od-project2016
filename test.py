@@ -55,7 +55,7 @@ qres = g.query(
           ?b v:fn ?bname .
        }""")
 
-print len(qres)
+print(len(qres))
 
 qres = g.query(
     """SELECT DISTINCT ?bname
@@ -63,7 +63,7 @@ qres = g.query(
           ?b skos:prefLabel ?bname .
        }""")
 
-print len(qres)
+print(len(qres))
 
 # #
 # # i = 0

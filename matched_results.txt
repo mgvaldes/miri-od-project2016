@@ -1,0 +1,756 @@
+Restaurant Can Cortada
+Can Cortada
+-----------------------------------------------------------------------
+Restaurant 7 Portes
+7 Portes
+-----------------------------------------------------------------------
+Restaurant Cuines de Santa Caterina *Mercat de Santa Caterina
+Cuines de Santa Caterina
+-----------------------------------------------------------------------
+Bar Restaurant Himali
+Himali
+-----------------------------------------------------------------------
+Restaurant Flor de Maig
+Flor de Maig
+-----------------------------------------------------------------------
+Restaurant La Poma
+La Poma
+-----------------------------------------------------------------------
+Bar Sarrietto
+Sarrietto
+-----------------------------------------------------------------------
+Bar Restaurant La Mar De Bo *Palau de Mar
+La Mar de Bo
+-----------------------------------------------------------------------
+Hotel Barceló Raval - HB-004337
+Barceló Raval
+-----------------------------------------------------------------------
+Restaurant La Taberna del Cura
+Taberna del Cura
+-----------------------------------------------------------------------
+Restaurant Piras Braseria
+Piras Braseria
+-----------------------------------------------------------------------
+Restaurant La Poma
+La Poma
+-----------------------------------------------------------------------
+Bar Restaurant Dostrece
+Dostrece
+-----------------------------------------------------------------------
+Restaurant Creperie Bretonne Annaick
+Crêperie Bretonne Anaick
+-----------------------------------------------------------------------
+Restaurant Ikibana *Paral·lel
+Ikibana Paralelo
+-----------------------------------------------------------------------
+Bar Restaurant Dostrece
+Dostrece
+-----------------------------------------------------------------------
+Restaurant al Punt
+Al Punt
+-----------------------------------------------------------------------
+Restaurant Ikibana *Born
+Ikibana Borne
+-----------------------------------------------------------------------
+Restaurant Ikibana *Paral·lel
+Ikibana Paralelo
+-----------------------------------------------------------------------
+Restaurant Thaï Gardens
+Thai Barcelona  Thai Gardens
+-----------------------------------------------------------------------
+Mercat Princesa
+Mercat Princesa
+-----------------------------------------------------------------------
+Bar Restaurant Himali
+Himali
+-----------------------------------------------------------------------
+Restaurant Flor de Maig
+Flor de Maig
+-----------------------------------------------------------------------
+Restaurant Ikibana *Born
+Ikibana Borne
+-----------------------------------------------------------------------
+Restaurant Can Cortada
+Can Cortada
+-----------------------------------------------------------------------
+Restaurant Quasi Queviures
+Qu Qu - Quasi Queviures
+-----------------------------------------------------------------------
+Restaurant La Taberna del Cura
+Taberna del Cura
+-----------------------------------------------------------------------
+Restaurant Cuines de Santa Caterina *Mercat de Santa Caterina
+Cuines de Santa Caterina
+-----------------------------------------------------------------------
+Restaurant Carlitos
+Carlitos
+-----------------------------------------------------------------------
+Restaurant Picnic
+Picnic
+-----------------------------------------------------------------------
+Mercat Princesa
+Mercat Princesa
+-----------------------------------------------------------------------
+Restaurant Flash Flash
+Flash Flash Tortillería
+-----------------------------------------------------------------------
+Bar Restaurant Els Quatre Gats
+Els 4 Gats
+-----------------------------------------------------------------------
+Restaurant Flor de Maig
+Flor de Maig
+-----------------------------------------------------------------------
+Restaurant Bestial
+Bestial
+-----------------------------------------------------------------------
+Restaurant Silvestre
+Restaurant Silvestre
+-----------------------------------------------------------------------
+Botiga-Restaurant Cornelia and Co
+Cornelia and Co.
+-----------------------------------------------------------------------
+Restaurant Taberna Gallega de Marcos *Port Olímpic
+La Taberna Gallega
+-----------------------------------------------------------------------
+Restaurant Costa Gallega
+Costa Gallega
+-----------------------------------------------------------------------
+Restaurant Kaiku
+Kaiku
+-----------------------------------------------------------------------
+Restaurant  La Gavina
+La Gavina
+-----------------------------------------------------------------------
+Restaurant Passadís del Pep
+Passadís del Pep
+-----------------------------------------------------------------------
+Restaurant Boca Grande
+Boca Grande
+-----------------------------------------------------------------------
+Restaurant Hisop
+Hisop
+-----------------------------------------------------------------------
+Restaurant Bodega Manolo
+Bodega Manolo
+-----------------------------------------------------------------------
+Restaurant Cuines de Santa Caterina *Mercat de Santa Caterina
+Cuines de Santa Caterina
+-----------------------------------------------------------------------
+Restaurant Dionisos *Marquès d'Argentera
+Dionisos
+-----------------------------------------------------------------------
+Restaurant Gut
+Gut
+-----------------------------------------------------------------------
+Restaurant La Riera
+La Riera
+-----------------------------------------------------------------------
+Restaurant Gut
+Gut
+-----------------------------------------------------------------------
+Edifici de la Fàbrica Moritz - Espai Gastronòmic i Cultural
+Fàbrica Moritz Barcelona
+-----------------------------------------------------------------------
+Bar Restaurant Bernies Diner Grill & Burger Bar Barcelona
+Bernie's Diner Grill & Burger Bar Barcelona
+-----------------------------------------------------------------------
+Restaurant Cal Pinxo Platja
+Cal Pinxo Platja
+-----------------------------------------------------------------------
+Restaurant Barceloneta
+Restaurante Barceloneta
+-----------------------------------------------------------------------
+Bar Restaurant La Mar De Bo *Palau de Mar
+La Mar de Bo
+-----------------------------------------------------------------------
+Restaurant  La Gavina
+La Gavina
+-----------------------------------------------------------------------
+Restaurant Cuines de Santa Caterina *Mercat de Santa Caterina
+Cuines de Santa Caterina
+-----------------------------------------------------------------------
+Restaurant Dionisos *Marquès d'Argentera
+Dionisos
+-----------------------------------------------------------------------
+Restaurant Gut
+Gut
+-----------------------------------------------------------------------
+Restaurant La Riera
+La Riera
+-----------------------------------------------------------------------
+Restaurant Can Cortada
+Can Cortada
+-----------------------------------------------------------------------
+Bar Restaurant Dostrece
+Dostrece
+-----------------------------------------------------------------------
+Restaurant 7 Portes
+7 Portes
+-----------------------------------------------------------------------
+Restaurant Cuines de Santa Caterina *Mercat de Santa Caterina
+Cuines de Santa Caterina
+-----------------------------------------------------------------------
+Restaurant Dionisos *Marquès d'Argentera
+Dionisos
+-----------------------------------------------------------------------
+Restaurant Iurantia
+Restaurant Iurantia
+-----------------------------------------------------------------------
+Restaurant Piazze d'Italia
+Piazze d'Italia
+-----------------------------------------------------------------------
+Restaurant Il Giardinetto *Granada Penedès
+Il Giardinetto
+-----------------------------------------------------------------------
+Restaurant Bestial
+Bestial
+-----------------------------------------------------------------------
+Restaurant Margherita
+Restaurante Margherita
+-----------------------------------------------------------------------
+Edifici de la Fàbrica Moritz - Espai Gastronòmic i Cultural
+Fàbrica Moritz Barcelona
+-----------------------------------------------------------------------
+Restaurant Can Cortada
+Can Cortada
+-----------------------------------------------------------------------
+Restaurant La Font de Prades *Poble Espanyol
+Restaurant La Font de Prades
+-----------------------------------------------------------------------
+Restaurant Dionisos *Marquès d'Argentera
+Dionisos
+-----------------------------------------------------------------------
+Restaurant Pitarra
+Pitarra
+-----------------------------------------------------------------------
+Bar Restaurant Dostrece
+Dostrece
+-----------------------------------------------------------------------
+Restaurant Market
+Market Restaurant
+-----------------------------------------------------------------------
+Restaurant 3 Nusos
+3 Nusos Restaurant
+-----------------------------------------------------------------------
+Restaurant Barceloneta
+Restaurante Barceloneta
+-----------------------------------------------------------------------
+Mercat Princesa
+Mercat Princesa
+-----------------------------------------------------------------------
+Restaurant al Punt
+Al Punt
+-----------------------------------------------------------------------
+Restaurant Mayura
+Mayura
+-----------------------------------------------------------------------
+Restaurant Botafumeiro
+Botafumeiro
+-----------------------------------------------------------------------
+Restaurant Marina Moncho's
+Marina Bay by Moncho's
+-----------------------------------------------------------------------
+Bar Restaurant Els Quatre Gats
+Els 4 Gats
+-----------------------------------------------------------------------
+Restaurant Gut
+Gut
+-----------------------------------------------------------------------
+Restaurant Flor de Maig
+Flor de Maig
+-----------------------------------------------------------------------
+Restaurant Bestial
+Bestial
+-----------------------------------------------------------------------
+Restaurant La Poma
+La Poma
+-----------------------------------------------------------------------
+Restaurant Taberna Gallega de Marcos *Port Olímpic
+La Taberna Gallega
+-----------------------------------------------------------------------
+Restaurant Costa Gallega
+Costa Gallega
+-----------------------------------------------------------------------
+Restaurant 7 Portes
+7 Portes
+-----------------------------------------------------------------------
+Restaurant Passadís del Pep
+Passadís del Pep
+-----------------------------------------------------------------------
+Restaurant Lonja de Tapas *Pla Palau
+Lonja de Tapas
+-----------------------------------------------------------------------
+Restaurant Hisop
+Hisop
+-----------------------------------------------------------------------
+Hotel Barceló Raval - HB-004337
+Barceló Raval
+-----------------------------------------------------------------------
+Edifici de la Fàbrica Moritz - Espai Gastronòmic i Cultural
+Fàbrica Moritz Barcelona
+-----------------------------------------------------------------------
+Bar Restaurant Dostrece
+Dostrece
+-----------------------------------------------------------------------
+Restaurant 7 Portes
+7 Portes
+-----------------------------------------------------------------------
+Restaurant Can Cortada
+Can Cortada
+-----------------------------------------------------------------------
+Restaurant Cal Pinxo Platja
+Cal Pinxo Platja
+-----------------------------------------------------------------------
+Restaurant 3 Nusos
+3 Nusos Restaurant
+-----------------------------------------------------------------------
+Restaurant Marina Moncho's
+Marina Bay by Moncho's
+-----------------------------------------------------------------------
+Restaurant 7 Portes
+7 Portes
+-----------------------------------------------------------------------
+Restaurant Can Cortada
+Can Cortada
+-----------------------------------------------------------------------
+Restaurant Cuines de Santa Caterina *Mercat de Santa Caterina
+Cuines de Santa Caterina
+-----------------------------------------------------------------------
+Restaurant Dionisos *Marquès d'Argentera
+Dionisos
+-----------------------------------------------------------------------
+Restaurant Cal Pinxo Platja
+Cal Pinxo Platja
+-----------------------------------------------------------------------
+Restaurant Carlitos
+Carlitos
+-----------------------------------------------------------------------
+Restaurant Picnic
+Picnic
+-----------------------------------------------------------------------
+Restaurant 3 Nusos
+3 Nusos Restaurant
+-----------------------------------------------------------------------
+Restaurant Barceloneta
+Restaurante Barceloneta
+-----------------------------------------------------------------------
+Mercat Princesa
+Mercat Princesa
+-----------------------------------------------------------------------
+Restaurant La Taberna del Cura
+Taberna del Cura
+-----------------------------------------------------------------------
+Restaurant Flash Flash
+Flash Flash Tortillería
+-----------------------------------------------------------------------
+Restaurant Marina Moncho's
+Marina Bay by Moncho's
+-----------------------------------------------------------------------
+Restaurant Piras Braseria
+Piras Braseria
+-----------------------------------------------------------------------
+Bar Restaurant Els Quatre Gats
+Els 4 Gats
+-----------------------------------------------------------------------
+Restaurant Gut
+Gut
+-----------------------------------------------------------------------
+Restaurant Flor de Maig
+Flor de Maig
+-----------------------------------------------------------------------
+Restaurant Creperie Bretonne Annaick
+Crêperie Bretonne Anaick
+-----------------------------------------------------------------------
+Restaurant Bestial
+Bestial
+-----------------------------------------------------------------------
+Restaurant La Riera
+La Riera
+-----------------------------------------------------------------------
+Restaurant Silvestre
+Restaurant Silvestre
+-----------------------------------------------------------------------
+Botiga-Restaurant Cornelia and Co
+Cornelia and Co.
+-----------------------------------------------------------------------
+Restaurant La Poma
+La Poma
+-----------------------------------------------------------------------
+Restaurant Taberna Gallega de Marcos *Port Olímpic
+La Taberna Gallega
+-----------------------------------------------------------------------
+Restaurant Quasi Queviures
+Qu Qu - Quasi Queviures
+-----------------------------------------------------------------------
+Restaurant Costa Gallega
+Costa Gallega
+-----------------------------------------------------------------------
+Vinoteca Torres
+La Vinoteca Torres
+-----------------------------------------------------------------------
+Restaurant 7 Portes
+7 Portes
+-----------------------------------------------------------------------
+Restaurant Kaiku
+Kaiku
+-----------------------------------------------------------------------
+Bar Restaurant La Mar De Bo *Palau de Mar
+La Mar de Bo
+-----------------------------------------------------------------------
+Restaurant  La Gavina
+La Gavina
+-----------------------------------------------------------------------
+Restaurant Passadís del Pep
+Passadís del Pep
+-----------------------------------------------------------------------
+Restaurant Lonja de Tapas *Pla Palau
+Lonja de Tapas
+-----------------------------------------------------------------------
+Restaurant Boca Grande
+Boca Grande
+-----------------------------------------------------------------------
+Restaurant Hisop
+Hisop
+-----------------------------------------------------------------------
+Restaurant Cerveseria Ciudad Condal
+Cerveseria Ciutat Comtal  Ciudad Condal
+-----------------------------------------------------------------------
+Edifici de la Fàbrica Moritz - Espai Gastronòmic i Cultural
+Fàbrica Moritz Barcelona
+-----------------------------------------------------------------------
+Restaurant Bodega Manolo
+Bodega Manolo
+-----------------------------------------------------------------------
+Bar Restaurant Bernies Diner Grill & Burger Bar Barcelona
+Bernie's Diner Grill & Burger Bar Barcelona
+-----------------------------------------------------------------------
+Restaurant Can Cortada
+Can Cortada
+-----------------------------------------------------------------------
+Restaurant Cuines de Santa Caterina *Mercat de Santa Caterina
+Cuines de Santa Caterina
+-----------------------------------------------------------------------
+Restaurant La Font de Prades *Poble Espanyol
+Restaurant La Font de Prades
+-----------------------------------------------------------------------
+Restaurant Dionisos *Marquès d'Argentera
+Dionisos
+-----------------------------------------------------------------------
+Restaurant Ikibana *Paral·lel
+Ikibana Paralelo
+-----------------------------------------------------------------------
+Restaurant Pitarra
+Pitarra
+-----------------------------------------------------------------------
+Bar Restaurant Dostrece
+Dostrece
+-----------------------------------------------------------------------
+Restaurant Iurantia
+Restaurant Iurantia
+-----------------------------------------------------------------------
+Restaurant Piazze d'Italia
+Piazze d'Italia
+-----------------------------------------------------------------------
+Restaurant Market
+Market Restaurant
+-----------------------------------------------------------------------
+Restaurant Thaï Gardens
+Thai Barcelona  Thai Gardens
+-----------------------------------------------------------------------
+Restaurant 3 Nusos
+3 Nusos Restaurant
+-----------------------------------------------------------------------
+Restaurant Barceloneta
+Restaurante Barceloneta
+-----------------------------------------------------------------------
+Mercat Princesa
+Mercat Princesa
+-----------------------------------------------------------------------
+Restaurant al Punt
+Al Punt
+-----------------------------------------------------------------------
+Restaurant Mayura
+Mayura
+-----------------------------------------------------------------------
+Restaurant Botafumeiro
+Botafumeiro
+-----------------------------------------------------------------------
+Restaurant Il Giardinetto *Granada Penedès
+Il Giardinetto
+-----------------------------------------------------------------------
+Restaurant Marina Moncho's
+Marina Bay by Moncho's
+-----------------------------------------------------------------------
+Bar Restaurant Himali
+Himali
+-----------------------------------------------------------------------
+Bar Restaurant Els Quatre Gats
+Els 4 Gats
+-----------------------------------------------------------------------
+Restaurant Gut
+Gut
+-----------------------------------------------------------------------
+Restaurant Flor de Maig
+Flor de Maig
+-----------------------------------------------------------------------
+Restaurant Bestial
+Bestial
+-----------------------------------------------------------------------
+Restaurant Margherita
+Restaurante Margherita
+-----------------------------------------------------------------------
+Restaurant La Poma
+La Poma
+-----------------------------------------------------------------------
+Restaurant Taberna Gallega de Marcos *Port Olímpic
+La Taberna Gallega
+-----------------------------------------------------------------------
+Restaurant Costa Gallega
+Costa Gallega
+-----------------------------------------------------------------------
+Restaurant 7 Portes
+7 Portes
+-----------------------------------------------------------------------
+Restaurant Ikibana *Born
+Ikibana Borne
+-----------------------------------------------------------------------
+Restaurant Passadís del Pep
+Passadís del Pep
+-----------------------------------------------------------------------
+Restaurant Lonja de Tapas *Pla Palau
+Lonja de Tapas
+-----------------------------------------------------------------------
+Restaurant Hisop
+Hisop
+-----------------------------------------------------------------------
+Hotel Barceló Raval - HB-004337
+Barceló Raval
+-----------------------------------------------------------------------
+Edifici de la Fàbrica Moritz - Espai Gastronòmic i Cultural
+Fàbrica Moritz Barcelona
+-----------------------------------------------------------------------
+Restaurant Cuines de Santa Caterina *Mercat de Santa Caterina
+Cuines de Santa Caterina
+-----------------------------------------------------------------------
+Bar Restaurant Himali
+Himali
+-----------------------------------------------------------------------
+Restaurant Flor de Maig
+Flor de Maig
+-----------------------------------------------------------------------
+Restaurant La Poma
+La Poma
+-----------------------------------------------------------------------
+Bar Sarrietto
+Sarrietto
+-----------------------------------------------------------------------
+Bar Restaurant La Mar De Bo *Palau de Mar
+La Mar de Bo
+-----------------------------------------------------------------------
+Hotel Barceló Raval - HB-004337
+Barceló Raval
+-----------------------------------------------------------------------
+Restaurant Can Cortada
+Can Cortada
+-----------------------------------------------------------------------
+Restaurant Cuines de Santa Caterina *Mercat de Santa Caterina
+Cuines de Santa Caterina
+-----------------------------------------------------------------------
+Restaurant La Font de Prades *Poble Espanyol
+Restaurant La Font de Prades
+-----------------------------------------------------------------------
+Restaurant Dionisos *Marquès d'Argentera
+Dionisos
+-----------------------------------------------------------------------
+Restaurant Ikibana *Paral·lel
+Ikibana Paralelo
+-----------------------------------------------------------------------
+Restaurant Pitarra
+Pitarra
+-----------------------------------------------------------------------
+Restaurant Cal Pinxo Platja
+Cal Pinxo Platja
+-----------------------------------------------------------------------
+Restaurant Carlitos
+Carlitos
+-----------------------------------------------------------------------
+Bar Restaurant Dostrece
+Dostrece
+-----------------------------------------------------------------------
+Restaurant Iurantia
+Restaurant Iurantia
+-----------------------------------------------------------------------
+Restaurant Piazze d'Italia
+Piazze d'Italia
+-----------------------------------------------------------------------
+Restaurant - Peixateria La Paradeta *Born
+La Paradeta
+-----------------------------------------------------------------------
+Restaurant Picnic
+Picnic
+-----------------------------------------------------------------------
+Restaurant Market
+Market Restaurant
+-----------------------------------------------------------------------
+Restaurant Thaï Gardens
+Thai Barcelona  Thai Gardens
+-----------------------------------------------------------------------
+Restaurant 3 Nusos
+3 Nusos Restaurant
+-----------------------------------------------------------------------
+Restaurant Barceloneta
+Restaurante Barceloneta
+-----------------------------------------------------------------------
+Mercat Princesa
+Mercat Princesa
+-----------------------------------------------------------------------
+Restaurant al Punt
+Al Punt
+-----------------------------------------------------------------------
+Restaurant Mayura
+Mayura
+-----------------------------------------------------------------------
+Restaurant Botafumeiro
+Botafumeiro
+-----------------------------------------------------------------------
+Restaurant La Taberna del Cura
+Taberna del Cura
+-----------------------------------------------------------------------
+Restaurant Il Giardinetto *Granada Penedès
+Il Giardinetto
+-----------------------------------------------------------------------
+Restaurant Flash Flash
+Flash Flash Tortillería
+-----------------------------------------------------------------------
+Restaurant Marina Moncho's
+Marina Bay by Moncho's
+-----------------------------------------------------------------------
+Bar Restaurant Himali
+Himali
+-----------------------------------------------------------------------
+Restaurant Piras Braseria
+Piras Braseria
+-----------------------------------------------------------------------
+Bar Restaurant Els Quatre Gats
+Els 4 Gats
+-----------------------------------------------------------------------
+Restaurant Els Pollos de Llull *Nàpols
+Els Pollos de Llull
+-----------------------------------------------------------------------
+Restaurant Gut
+Gut
+-----------------------------------------------------------------------
+Restaurant Flor de Maig
+Flor de Maig
+-----------------------------------------------------------------------
+Restaurant Creperie Bretonne Annaick
+Crêperie Bretonne Anaick
+-----------------------------------------------------------------------
+Restaurant Bestial
+Bestial
+-----------------------------------------------------------------------
+Restaurant Els Pollos de Llull *Ramon Turró
+Els Pollos de Llull
+-----------------------------------------------------------------------
+Restaurant La Riera
+La Riera
+-----------------------------------------------------------------------
+Restaurant Margherita
+Restaurante Margherita
+-----------------------------------------------------------------------
+Restaurant Tacos Tacos *Sant Fructuós
+Tacos Tacos
+-----------------------------------------------------------------------
+Restaurant Silvestre
+Restaurant Silvestre
+-----------------------------------------------------------------------
+Restaurant Tacos Tacos *Tamarit
+Tacos Tacos
+-----------------------------------------------------------------------
+Restaurant Tacos Tacos *Tapioles
+Tacos Tacos
+-----------------------------------------------------------------------
+Botiga-Restaurant Cornelia and Co
+Cornelia and Co.
+-----------------------------------------------------------------------
+Restaurant La Poma
+La Poma
+-----------------------------------------------------------------------
+Restaurant Taberna Gallega de Marcos *Port Olímpic
+La Taberna Gallega
+-----------------------------------------------------------------------
+Restaurant Quasi Queviures
+Qu Qu - Quasi Queviures
+-----------------------------------------------------------------------
+Restaurant Costa Gallega
+Costa Gallega
+-----------------------------------------------------------------------
+Vinoteca Torres
+La Vinoteca Torres
+-----------------------------------------------------------------------
+Restaurant 7 Portes
+7 Portes
+-----------------------------------------------------------------------
+Restaurant Ikibana *Born
+Ikibana Borne
+-----------------------------------------------------------------------
+Bar Sarrietto
+Sarrietto
+-----------------------------------------------------------------------
+Restaurant Kaiku
+Kaiku
+-----------------------------------------------------------------------
+Bar Restaurant La Mar De Bo *Palau de Mar
+La Mar de Bo
+-----------------------------------------------------------------------
+Restaurant  La Gavina
+La Gavina
+-----------------------------------------------------------------------
+Restaurant Passadís del Pep
+Passadís del Pep
+-----------------------------------------------------------------------
+Restaurant Lonja de Tapas *Pla Palau
+Lonja de Tapas
+-----------------------------------------------------------------------
+Restaurant Boca Grande
+Boca Grande
+-----------------------------------------------------------------------
+Restaurant Hisop
+Hisop
+-----------------------------------------------------------------------
+Restaurant Cerveseria Ciudad Condal
+Cerveseria Ciutat Comtal  Ciudad Condal
+-----------------------------------------------------------------------
+Hotel Barceló Raval - HB-004337
+Barceló Raval
+-----------------------------------------------------------------------
+Edifici de la Fàbrica Moritz - Espai Gastronòmic i Cultural
+Fàbrica Moritz Barcelona
+-----------------------------------------------------------------------
+Restaurant Bodega Manolo
+Bodega Manolo
+-----------------------------------------------------------------------
+Bar Restaurant Bernies Diner Grill & Burger Bar Barcelona
+Bernie's Diner Grill & Burger Bar Barcelona
+-----------------------------------------------------------------------
+Restaurant Picnic
+Picnic
+-----------------------------------------------------------------------
+Mercat Princesa
+Mercat Princesa
+-----------------------------------------------------------------------
+Restaurant Quasi Queviures
+Qu Qu - Quasi Queviures
+-----------------------------------------------------------------------
+Vinoteca Torres
+La Vinoteca Torres
+-----------------------------------------------------------------------
+Restaurant Lonja de Tapas *Pla Palau
+Lonja de Tapas
+-----------------------------------------------------------------------
+Restaurant Cerveseria Ciudad Condal
+Cerveseria Ciutat Comtal  Ciudad Condal
+-----------------------------------------------------------------------
+Restaurant Bodega Manolo
+Bodega Manolo
+-----------------------------------------------------------------------

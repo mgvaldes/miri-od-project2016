@@ -1,0 +1,522 @@
+{'address': 'C Doctor Joaquim Pou 4', 'restname': 'Restaurant La Locanda', 'lng': '2.1755125555555552', 'lat': '41.38595585'}
+{'address': 'Dr. Joaquim Pou, 4', 'restname': 'La Locanda', 'lng': '2.175537', 'lat': '41.385768'}
+-----------------------------------------------------------------------
+{'address': 'Ptge Marimon 9', 'restname': 'Restaurant Hisop', 'lng': '2.1480123333333334', 'lat': '41.39445760833333'}
+{'address': 'Passatge Marimon 9', 'restname': 'Hisop', 'lng': '2.148158648103003', 'lat': '41.39440120764811'}
+-----------------------------------------------------------------------
+{'address': 'C Junta de Comerç 28', 'restname': 'Restaurant La Biblioteca Gourmande', 'lng': '2.1719045555555554', 'lat': '41.37923755833334'}
+{'address': 'C. Junta de Comerç, 28', 'restname': 'La Biblioteca Gourmande', 'lng': '2.1719151284018174', 'lat': '41.37929138317361'}
+-----------------------------------------------------------------------
+{'address': 'C Ramon Turró 13', 'restname': 'Restaurant Els Pollos de Llull *Ramon Turró', 'lng': '2.190924222222222', 'lat': '41.39104871666667'}
+{'address': 'Carrer de Ramón Turró 13', 'restname': 'Els Pollos de Llull', 'lng': '2.170552341649801', 'lat': '41.39085'}
+-----------------------------------------------------------------------
+{'address': 'C Almirall Cervera 34', 'restname': 'Restaurant Salamanca', 'lng': '2.191201583333333', 'lat': '41.37860735277778'}
+{'address': "Carrer De L'Almirall Cervera 34", 'restname': 'Restaurante Salamanca', 'lng': '2.191799283027649', 'lat': '41.37881919442627'}
+-----------------------------------------------------------------------
+{'address': 'C Avinyó 56', 'restname': 'Restaurant Pitarra', 'lng': '2.179166472222222', 'lat': '41.380238480555555'}
+{'address': 'C. Avinyó, 56', 'restname': 'Pitarra', 'lng': '2.1792192167567137', 'lat': '41.38031028949932'}
+-----------------------------------------------------------------------
+{'address': 'C la Rambla 117', 'restname': 'Restaurant La Poma', 'lng': '2.170566194444444', 'lat': '41.38434323055556'}
+{'address': 'La Rambla, 117', 'restname': 'La Poma', 'lng': '2.170782668907569', 'lat': '41.38445396203845'}
+-----------------------------------------------------------------------
+{'address': 'C Bori i Fontestà 45', 'restname': 'Restaurant Asador del Mar', 'lng': '2.137280222222222', 'lat': '41.39246398888889'}
+{'address': 'Bori i Fontestà, 45', 'restname': 'Asador del Mar', 'lng': '2.136731035107934', 'lat': '41.39219662133684'}
+-----------------------------------------------------------------------
+{'address': 'Rbla Raval 15', 'restname': 'Restaurant La Fragua', 'lng': '2.1691652777777777', 'lat': '41.37924691388889'}
+{'address': 'Rambla del Raval, 15', 'restname': 'Fragua Grill', 'lng': '2.16907', 'lat': '41.379068'}
+-----------------------------------------------------------------------
+{'address': 'C Capità Arenas 27', 'restname': 'Restaurant Garlana', 'lng': '2.1255860277777776', 'lat': '41.39110924444444'}
+{'address': 'C. Capità Arenas, 27', 'restname': 'Garlana', 'lng': '2.1257203817367554', 'lat': '41.39103257906431'}
+-----------------------------------------------------------------------
+{'address': 'C Consell de Cent 222', 'restname': 'Restaurant  Casa Jaime', 'lng': '2.159021', 'lat': '41.38592543055555'}
+{'address': 'Consell de Cent, 222', 'restname': 'Casa Jaime', 'lng': '2.1590230900067136', 'lat': '41.38606860646671'}
+-----------------------------------------------------------------------
+{'address': 'C Enric Granados 107', 'restname': 'Bar Restaurant Casa Jaime', 'lng': '2.15552425', 'lat': '41.39283784444444'}
+{'address': "Carrer d'Enric Granados, 107", 'restname': 'Casa Jaime', 'lng': '2.158788025727544', 'lat': '41.39267863342016'}
+-----------------------------------------------------------------------
+{'address': 'C Galileu 85', 'restname': 'Restaurant Can Manel', 'lng': '2.134946222222222', 'lat': '41.378056352777776'}
+{'address': 'C. Galileu, 85', 'restname': 'Can Manel', 'lng': '2.1349525451660156', 'lat': '41.37796785471603'}
+-----------------------------------------------------------------------
+{'address': 'C Granada del Penedès 22', 'restname': 'Restaurant Il Giardinetto *Granada Penedès', 'lng': '2.1528239166666667', 'lat': '41.39704483333333'}
+{'address': 'C. Granada del Penedès, 22', 'restname': 'Il Giardinetto', 'lng': '2.1522978586991557', 'lat': '41.39681167166629'}
+-----------------------------------------------------------------------
+{'address': 'C Infanta Isabel 4', 'restname': 'Restaurant La Balsa', 'lng': '2.130347111111111', 'lat': '41.410843794444446'}
+{'address': 'Infanta Isabel, 4', 'restname': 'La Balsa Restaurant', 'lng': '2.130344731613941', 'lat': '41.4108733938791'}
+-----------------------------------------------------------------------
+{'address': 'C Joanot Martorell 3', 'restname': 'Restaurant La Parra', 'lng': '2.1409046944444445', 'lat': '41.37509928611111'}
+{'address': 'Joanot Martorell, 3', 'restname': 'Taverna La Parra', 'lng': '2.140915095806122', 'lat': '41.375029338900475'}
+-----------------------------------------------------------------------
+{'address': 'C Gran de Gràcia 81', 'restname': 'Restaurant Botafumeiro', 'lng': '2.1546171944444446', 'lat': '41.400430944444444'}
+{'address': 'Gran de Gràcia 81', 'restname': 'Botafumeiro', 'lng': '2.154240493368919', 'lat': '41.40024071930766'}
+-----------------------------------------------------------------------
+{'address': 'C Montsió 3', 'restname': 'Bar Restaurant Els Quatre Gats', 'lng': '2.173499777777778', 'lat': '41.38600915833333'}
+{'address': 'C. Montsió, 3', 'restname': 'Els 4 Gats', 'lng': '2.173597812652588', 'lat': '41.3857764159241'}
+-----------------------------------------------------------------------
+{'address': 'C Montsió 5', 'restname': 'Restaurant Els Actuals', 'lng': '2.173837888888889', 'lat': '41.385790505555555'}
+{'address': 'C. Montsió, 3', 'restname': 'Els 4 Gats', 'lng': '2.173597812652588', 'lat': '41.3857764159241'}
+-----------------------------------------------------------------------
+{'address': "Pas de l'Ensenyança 2", 'restname': 'Bar El Paraigua', 'lng': '2.1767387777777776', 'lat': '41.38189104166667'}
+{'address': "Pas de l'Ensenyança, 2", 'restname': 'El Paraigua', 'lng': '2.1771061420440674', 'lat': '41.382081553825415'}
+-----------------------------------------------------------------------
+{'address': 'C Poeta Cabanyes 25', 'restname': 'Bar Bodega Quimet i Quimet', 'lng': '2.1655674166666667', 'lat': '41.37397256944445'}
+{'address': 'Poeta Cabanyes, 25', 'restname': 'Quimet & Quimet', 'lng': '2.1655190257327672', 'lat': '41.37406598421862'}
+-----------------------------------------------------------------------
+{'address': 'C Regent Mendieta 15', 'restname': 'Restaurant La Riera', 'lng': '2.12262325', 'lat': '41.37705325555556'}
+{'address': 'Regent Mendieta, 15', 'restname': 'La Riera', 'lng': '2.1226009726524353', 'lat': '41.373183'}
+-----------------------------------------------------------------------
+{'address': 'C Riereta 8', 'restname': 'Restaurant Guixot', 'lng': '2.1676921666666664', 'lat': '41.37855717222222'}
+{'address': 'C. de la Riereta, 8', 'restname': 'Guixot', 'lng': '2.1677546399999996', 'lat': '41.37855311999999'}
+-----------------------------------------------------------------------
+{'address': 'C Gran de Sant Andreu 209', 'restname': 'Bar Restaurant Taverna Can Roca', 'lng': '2.189308972222222', 'lat': '41.43373803055555'}
+{'address': 'Gran de Sant Andreu 209', 'restname': 'Taverna Can Roca', 'lng': '2.189337479795471', 'lat': '41.4335477361257'}
+-----------------------------------------------------------------------
+{'address': 'Sitges 11', 'restname': 'Bar Taberna El Drapaire', 'lng': '2.1694693055555554', 'lat': '41.38467986388889'}
+{'address': 'Sitges, 11', 'restname': 'El Drapaire', 'lng': '2.169499397277832', 'lat': '41.38464141526734'}
+-----------------------------------------------------------------------
+{'address': 'C Terol 6', 'restname': 'Restaurant Taverna La Llesca', 'lng': '2.1572524444444445', 'lat': '41.402446149999996'}
+{'address': 'Terol, 6', 'restname': 'La Llesca', 'lng': '2.157361', 'lat': '41.402421'}
+-----------------------------------------------------------------------
+{'address': 'C Pau Claris 92', 'restname': 'Elephant Restaurant & Lounge Club', 'lng': '2.170577611111111', 'lat': '41.39024571666667'}
+{'address': 'C. de Pau Claris, 92', 'restname': 'Elephant Restaurant & Lounge Club', 'lng': '2.1707546710968018', 'lat': '41.39030012239399'}
+-----------------------------------------------------------------------
+{'address': 'C Mandri 54', 'restname': 'Restaurant El Pescadito de Mandri', 'lng': '2.1326429444444446', 'lat': '41.40451638888889'}
+{'address': 'C. Mandri, 54', 'restname': 'El Pescadito de Mandri', 'lng': '2.13266', 'lat': '41.404578'}
+-----------------------------------------------------------------------
+{'address': 'C Baluard 124', 'restname': 'Restaurant Cal Pinxo Platja', 'lng': '2.1903006388888886', 'lat': '41.37648161111111'}
+{'address': 'Baluart 124', 'restname': 'Cal Pinxo Platja', 'lng': '2.190563', 'lat': '41.376538'}
+-----------------------------------------------------------------------
+{'address': 'C Marquès de Sentmenat 67*69', 'restname': 'Restaurant Koxkera', 'lng': '2.139393', 'lat': '41.38570915'}
+{'address': 'Marquès de Sentmenat, 67', 'restname': 'Koxkera', 'lng': '2.1395015716552734', 'lat': '41.38543833269385'}
+-----------------------------------------------------------------------
+{'address': 'C Casanova 94 Local 1', 'restname': "Restaurant Piazze d'Italia", 'lng': '2.156911611111111', 'lat': '41.386940277777775'}
+{'address': 'C. Casanova, 94 - Local 1', 'restname': "Piazze d'Italia", 'lng': '2.1570466694388166', 'lat': '41.386836634178806'}
+-----------------------------------------------------------------------
+{'address': 'Pl Pau Vila 1', 'restname': 'Restaurant  La Gavina', 'lng': '2.185855722222222', 'lat': '41.3808077'}
+{'address': 'Plaça de Pau Vila, 1', 'restname': 'La Gavina', 'lng': '2.1852716617506713', 'lat': '41.380638708159225'}
+-----------------------------------------------------------------------
+{'address': 'C Mercaders 10', 'restname': 'Restaurant Arcano', 'lng': '2.1786530555555554', 'lat': '41.384975069444444'}
+{'address': 'C/ Mercaders, 10', 'restname': 'Arcano', 'lng': '2.178379330282109', 'lat': '41.38496122662289'}
+-----------------------------------------------------------------------
+{'address': 'Pl Pau Vila 1', 'restname': 'Bar Restaurant La Mar De Bo *Palau de Mar', 'lng': '2.185855722222222', 'lat': '41.3808077'}
+{'address': 'Plaça Pau Vila 1', 'restname': 'La Mar de Bo', 'lng': '2.1849194169044495', 'lat': '41.38093843849719'}
+-----------------------------------------------------------------------
+{'address': 'Pla Palau 2', 'restname': 'Restaurant Passadís del Pep', 'lng': '2.182563722222222', 'lat': '41.38293481111111'}
+{'address': 'Pla de Palau, 2', 'restname': 'Passadís del Pep', 'lng': '2.18271331259049', 'lat': '41.38293710756307'}
+-----------------------------------------------------------------------
+{'address': 'C Casp 28', 'restname': 'Restaurant Las Cuatro Encinas', 'lng': '2.1715066666666667', 'lat': '41.389819394444444'}
+{'address': 'C. Casp, 28', 'restname': 'Las Cuatro Encinas', 'lng': '2.1713920821285404', 'lat': '41.38990177709335'}
+-----------------------------------------------------------------------
+{'address': 'C Virgili 85', 'restname': 'Restaurant Taverna del Pa i Tall', 'lng': '2.193051833333333', 'lat': '41.43226249166666'}
+{'address': 'Virgili, 85', 'restname': 'Restaurant Pa i Tall', 'lng': '2.1932068278735306', 'lat': '41.43239543042036'}
+-----------------------------------------------------------------------
+{'address': 'Pg Isabel II 14', 'restname': 'Restaurant 7 Portes', 'lng': '2.1833691944444444', 'lat': '41.38215531111111'}
+{'address': "Passeig d'Isabel II, 14", 'restname': '7 Portes', 'lng': '2.183202891621073', 'lat': '41.38237619549551'}
+-----------------------------------------------------------------------
+{'address': 'C València 169', 'restname': 'Restaurant Taktika Berri', 'lng': '2.157608833333333', 'lat': '41.38853398333333'}
+{'address': 'C. València, 169', 'restname': 'Taktika Berri', 'lng': '2.157818998203541', 'lat': '41.38862882250361'}
+-----------------------------------------------------------------------
+{'address': 'C Escar 22', 'restname': 'Restaurant Barceloneta', 'lng': '2.1866994444444443', 'lat': '41.37601553333334'}
+{'address': 'C. Escar, 22', 'restname': 'Restaurante Barceloneta', 'lng': '2.187438', 'lat': '41.375908'}
+-----------------------------------------------------------------------
+{'address': 'Pg Gràcia 24 bxs', 'restname': 'Restaurant Quasi Queviures', 'lng': '2.1678943055555555', 'lat': '41.390163855555556'}
+{'address': 'Passeig de Gràcia, 24', 'restname': 'Qu Qu - Quasi Queviures', 'lng': '2.167726130229586', 'lat': '41.39005271292193'}
+-----------------------------------------------------------------------
+{'address': 'C Diputació 269', 'restname': 'Restaurant Tapas 24', 'lng': '2.1674466666666663', 'lat': '41.390846975'}
+{'address': 'Diputació, 269', 'restname': 'Tapas 24', 'lng': '2.16740945206258', 'lat': '41.39067389924666'}
+-----------------------------------------------------------------------
+{'address': 'Arizala 19', 'restname': 'Bar Restaurant Santilari', 'lng': '2.1244946944444445', 'lat': '41.37701403888889'}
+{'address': "C. d'Arizala, 19", 'restname': 'Bar Restaurant Santilari', 'lng': '2.124747', 'lat': '41.376844'}
+-----------------------------------------------------------------------
+{'address': 'Pg Born 22', 'restname': 'Restaurant La Pizza del Born', 'lng': '2.18286175', 'lat': '41.38459134722222'}
+{'address': 'Passeig del Born 22', 'restname': 'La Pizza del Born', 'lng': '2.182617317326018', 'lat': '41.384623625639406'}
+-----------------------------------------------------------------------
+{'address': 'Mallorca 236', 'restname': 'Cerveseria Catalana', 'lng': '2.1608125', 'lat': '41.39238078333333'}
+{'address': 'C. Mallorca, 236', 'restname': 'Cerveseria Catalana', 'lng': '2.1608519554138184', 'lat': '41.39244917514369'}
+-----------------------------------------------------------------------
+{'address': 'C Major de Sarrià 134', 'restname': 'Restaurant Vivanda', 'lng': '2.120986222222222', 'lat': '41.40047410277778'}
+{'address': 'C. Major de Sarrià, 134', 'restname': 'Vivanda', 'lng': '2.121227125894025', 'lat': '41.40062780640866'}
+-----------------------------------------------------------------------
+{'address': 'Pl Comercial 10', 'restname': 'Bar Café del Born Nou', 'lng': '2.18363375', 'lat': '41.38511861944444'}
+{'address': 'Pl. Comercial, 10', 'restname': 'Café del Born Nou', 'lng': '2.1836492771387417', 'lat': '41.38527327695867'}
+-----------------------------------------------------------------------
+{'address': 'Escòcia 5', 'restname': 'Restaurant La Cueva del Tío Jesús', 'lng': '2.183731222222222', 'lat': '41.42843232222222'}
+{'address': 'Escocia 5', 'restname': 'La Cueva del Tío Jesús', 'lng': '2.183730874969559', 'lat': '41.42874240055941'}
+-----------------------------------------------------------------------
+{'address': 'C Marina 19*21', 'restname': "Restaurant Marina Moncho's", 'lng': '2.1965545', 'lat': '41.38708262222222'}
+{'address': 'C. Marina, 19-21', 'restname': "Marina Bay by Moncho's", 'lng': '2.197531', 'lat': '41.386225'}
+-----------------------------------------------------------------------
+{'address': 'C Cardenal Tedeschini 32', 'restname': 'Restaurant Tasca i Vins *Cardenal Tedeschini', 'lng': '2.1832025555555554', 'lat': '41.42619201944444'}
+{'address': 'C. Cardenal Tedeschini, 32', 'restname': 'Tasca i vins', 'lng': '2.1828909043690103', 'lat': '41.425825433935344'}
+-----------------------------------------------------------------------
+{'address': 'Pg Born 27*29', 'restname': 'Restaurant La Taverna del Born', 'lng': '2.1830480555555556', 'lat': '41.38536943333333'}
+{'address': 'Passeig del Born, 27-29', 'restname': 'La Taverna del Born', 'lng': '2.183260489503861', 'lat': '41.38534865359874'}
+-----------------------------------------------------------------------
+{'address': 'C Cera 33', 'restname': "Restaurant Pizzas l'Avia", 'lng': '2.1658673611111112', 'lat': '41.37866965'}
+{'address': 'Cera, 33', 'restname': "Pizzas l'Àvia", 'lng': '2.165830135345459', 'lat': '41.37872057644897'}
+-----------------------------------------------------------------------
+{'address': 'C Torrijos 47', 'restname': 'Restaurant Cantina Machito', 'lng': '2.1576145277777776', 'lat': '41.40409848611111'}
+{'address': 'C. Torrijos, 47', 'restname': 'Cantina Machito', 'lng': '2.157955', 'lat': '41.404258'}
+-----------------------------------------------------------------------
+{'address': 'C Gran de Gràcia 83', 'restname': 'Restaurant La Taberna del Cura', 'lng': '2.1545605', 'lat': '41.40047953888889'}
+{'address': 'Carrer Gran de Gràcia 83', 'restname': 'Taberna del Cura', 'lng': '2.15430285093419', 'lat': '41.40034133316857'}
+-----------------------------------------------------------------------
+{'address': 'Pg Exposició 62', 'restname': 'Bar Restaurant La Perla *Pg Exposició', 'lng': '2.1594578055555553', 'lat': '41.37128574166667'}
+{'address': "Passeig de l'Exposició, 62", 'restname': 'La Perla: Germans Serra', 'lng': '2.1595028168380224', 'lat': '41.371276700435125'}
+-----------------------------------------------------------------------
+{'address': 'C Blai 47', 'restname': 'Restaurant Braseria La Bodegueta del Poble-sec', 'lng': '2.163203222222222', 'lat': '41.37411773888889'}
+{'address': 'Blai, 47', 'restname': 'La Bodegueta del Poble Sec', 'lng': '2.1631905375000002', 'lat': '41.374232'}
+-----------------------------------------------------------------------
+{'address': 'Pg Gràcia 71', 'restname': 'Restaurant Costa Gallega', 'lng': '2.162733333333333', 'lat': '41.39349951944445'}
+{'address': 'Passeig de Gracia 71', 'restname': 'Costa Gallega', 'lng': '2.1626691422682707', 'lat': '41.39356006519081'}
+-----------------------------------------------------------------------
+{'address': "Av Marquès de l'Argentera 27", 'restname': "Restaurant Dionisos *Marquès d'Argentera", 'lng': '2.1854394166666666', 'lat': '41.385477808333334'}
+{'address': "Av. Marquès de I'Argentera, 27", 'restname': 'Dionisos', 'lng': '2.185463663795355', 'lat': '41.38301950341669'}
+-----------------------------------------------------------------------
+{'address': 'Pla Palau 7', 'restname': 'Restaurant Lonja de Tapas *Pla Palau', 'lng': '2.182843083333333', 'lat': '41.38327518055556'}
+{'address': 'Pla de Palau, 7', 'restname': 'Lonja de Tapas', 'lng': '2.182139233333333', 'lat': '41.38321620490911'}
+-----------------------------------------------------------------------
+{'address': 'Pl Nova 3', 'restname': 'Bar Restaurant Bilbao Berria', 'lng': '2.1749170833333333', 'lat': '41.38418201111111'}
+{'address': 'Placa Nova, 3', 'restname': 'Bilbao Berria', 'lng': '2.175183105563165', 'lat': '41.38432929722604'}
+-----------------------------------------------------------------------
+{'address': 'Plta Montcada 5', 'restname': 'Restaurant Lonja de Tapas *Plta. de Montcada', 'lng': '2.182074222222222', 'lat': '41.384451311111114'}
+{'address': 'Pla de Palau, 7', 'restname': 'Lonja de Tapas', 'lng': '2.182139233333333', 'lat': '41.38321620490911'}
+-----------------------------------------------------------------------
+{'address': 'C Flassaders 21', 'restname': 'Mercat Princesa', 'lng': '2.181910333333333', 'lat': '41.385521322222225'}
+{'address': 'C. Flassaders, 21', 'restname': 'Mercat Princesa', 'lng': '2.182062864303589', 'lat': '41.38561944892868'}
+-----------------------------------------------------------------------
+{'address': 'C Flassaders 21', 'restname': 'Mercat Princesa', 'lng': '2.182124722222222', 'lat': '41.38564651944444'}
+{'address': 'C. Flassaders, 21', 'restname': 'Mercat Princesa', 'lng': '2.182062864303589', 'lat': '41.38561944892868'}
+-----------------------------------------------------------------------
+{'address': 'C Sabateret 1*3', 'restname': 'Mercat Princesa', 'lng': '2.182124722222222', 'lat': '41.38564651944444'}
+{'address': 'C. Flassaders, 21', 'restname': 'Mercat Princesa', 'lng': '2.182062864303589', 'lat': '41.38561944892868'}
+-----------------------------------------------------------------------
+{'address': 'C Santaló 101', 'restname': 'Restaurant Silvestre', 'lng': '2.142520277777778', 'lat': '41.398116566666666'}
+{'address': 'Carrer de Santaló 101', 'restname': 'Restaurant Silvestre', 'lng': '2.1424734592437744', 'lat': '41.398171587107456'}
+-----------------------------------------------------------------------
+{'address': 'C Elisi 13', 'restname': 'Restaurant Zarautz', 'lng': '2.143376027777778', 'lat': '41.37806913055556'}
+{'address': 'Elisi, 13', 'restname': 'Zarautz: Taberna Vasca', 'lng': '2.1433388428390585', 'lat': '41.37792102531005'}
+-----------------------------------------------------------------------
+{'address': 'C Comercial 7', 'restname': 'Restaurant - Peixateria La Paradeta *Born', 'lng': '2.183921722222222', 'lat': '41.38624316944444'}
+{'address': 'C. Comercial, 7', 'restname': 'La Paradeta', 'lng': '2.183908224105835', 'lat': '41.38619901748992'}
+-----------------------------------------------------------------------
+{'address': 'C Carme 40', 'restname': 'Bar Restaurant Dostrece', 'lng': '2.1696277777777775', 'lat': '41.38197253333333'}
+{'address': 'C. Carme, 40', 'restname': 'Dostrece', 'lng': '2.1695878590598636', 'lat': '41.3818983312486'}
+-----------------------------------------------------------------------
+{'address': 'C Granada del Penedès 25', 'restname': 'Restaurant Flash Flash', 'lng': '2.1522300555555556', 'lat': '41.396594791666665'}
+{'address': 'C. Granada del Penedès, 25', 'restname': 'Flash Flash Tortillería', 'lng': '2.152221114362063', 'lat': '41.39663093952624'}
+-----------------------------------------------------------------------
+{'address': 'Av Francesc Ferrer Guàrdia 13*27', 'restname': 'Restaurant La Font de Prades *Poble Espanyol', 'lng': '2.1467245833333335', 'lat': '41.369117261111114'}
+{'address': 'Av. Francesc Ferrer i Guàrdia, 13-27', 'restname': 'Restaurant La Font de Prades', 'lng': '2.14932918548584', 'lat': '41.3688862044236'}
+-----------------------------------------------------------------------
+{'address': 'C Martínez de la Rosa 10', 'restname': 'Restaurant El Patio Latino', 'lng': '2.159963388888889', 'lat': '41.39909526388889'}
+{'address': 'Martínez de la Rosa, 10', 'restname': 'El Patio Latino', 'lng': '2.159968', 'lat': '41.399144'}
+-----------------------------------------------------------------------
+{'address': 'Moll Gregal 23*24', 'restname': 'Restaurant Taberna Gallega de Marcos *Port Olímpic', 'lng': '2.2007106944444446', 'lat': '41.387021775'}
+{'address': 'Moll de Gregal, 23-24', 'restname': 'La Taberna Gallega', 'lng': '2.201537134480547', 'lat': '41.3879760796864'}
+-----------------------------------------------------------------------
+{'address': 'Pl Reial 6', 'restname': 'Restaurant Les Quinze Nits', 'lng': '2.1750791388888886', 'lat': '41.38050444444445'}
+{'address': 'Plaça Reial, 6', 'restname': 'Les Quinze Nits', 'lng': '2.1750295389165313', 'lat': '41.38038476905859'}
+-----------------------------------------------------------------------
+{'address': 'Av Estatut de Catalunya 88', 'restname': 'Restaurant Can Cortada', 'lng': '2.152787694444444', 'lat': '41.43760325277778'}
+{'address': "Av. de l'Estatut de Catalunya, 88", 'restname': 'Can Cortada', 'lng': '2.152441754684392', 'lat': '41.43605040321511'}
+-----------------------------------------------------------------------
+{'address': 'C Vidrieria 12', 'restname': 'Bar Restaurant Golfo de Bizkaia', 'lng': '2.1830607499999997', 'lat': '41.383994055555554'}
+{'address': 'C/ Vidrieria, 12', 'restname': 'Golfo de Bizkaia', 'lng': '2.1829909086227417', 'lat': '41.38403365854432'}
+-----------------------------------------------------------------------
+{'address': 'Rbla Catalunya 18', 'restname': 'Restaurant Cerveseria Ciudad Condal', 'lng': '2.1668204166666665', 'lat': '41.38881961944444'}
+{'address': 'Rambla de Catalunya, 18', 'restname': 'Cerveseria Ciutat Comtal  Ciudad Condal', 'lng': '2.166747314005941', 'lat': '41.388822491122006'}
+-----------------------------------------------------------------------
+{'address': 'Pg Fabra i Puig 296', 'restname': 'Bar La Esquinica', 'lng': '2.1708228333333333', 'lat': '41.43066012777778'}
+{'address': 'Passeig de Fabra i Puig, 296', 'restname': 'La Esquinica', 'lng': '2.171276916793072', 'lat': '41.430363134229395'}
+-----------------------------------------------------------------------
+{'address': 'Torrent de les Flors 101', 'restname': 'Restaurant Bodega Manolo', 'lng': '2.158263972222222', 'lat': '41.40808584444444'}
+{'address': 'C. Torrent de les Flors, 101', 'restname': 'Bodega Manolo', 'lng': '2.158432', 'lat': '41.407993'}
+-----------------------------------------------------------------------
+{'address': 'Marià Cubí 189', 'restname': 'Restaurant Can Punyetes *Marià Cubí', 'lng': '2.1447206666666667', 'lat': '41.395264869444446'}
+{'address': 'Mariano Cubí 189', 'restname': 'Can Punyetes', 'lng': '2.1447479724884033', 'lat': '41.39522593585012'}
+-----------------------------------------------------------------------
+{'address': 'Ptge Madoz 4*6 Baix', 'restname': 'Restaurant La Crema Canela', 'lng': '2.1746745555555553', 'lat': '41.380476477777776'}
+{'address': 'Passatge de Madoz, 6', 'restname': 'La Crema Canela', 'lng': '2.174886', 'lat': '41.380441'}
+-----------------------------------------------------------------------
+{'address': 'Ciutat de Balaguer 50', 'restname': 'Restaurant Can Punyetes *Ciutat Balaguer', 'lng': '2.134757222222222', 'lat': '41.40398703611111'}
+{'address': 'C/ Ciutat de Balaguer, 50', 'restname': 'Can Punyetes', 'lng': '2.134769978879177', 'lat': '41.404048439464816'}
+-----------------------------------------------------------------------
+{'address': 'Pl Sol 13', 'restname': 'Restaurant Envalira', 'lng': '2.1566667777777777', 'lat': '41.40188881111111'}
+{'address': 'Plaça del Sol, 13', 'restname': 'Envalira', 'lng': '2.15676844245096', 'lat': '41.40173269288199'}
+-----------------------------------------------------------------------
+{'address': 'C Diputació 273', 'restname': 'Restaurant Thaï Gardens', 'lng': '2.167677111111111', 'lat': '41.39102'}
+{'address': 'C. Diputació, 273', 'restname': 'Thai Barcelona  Thai Gardens', 'lng': '2.167696952819824', 'lat': '41.390960138662436'}
+-----------------------------------------------------------------------
+{'address': 'C Ramon Trias Fargas 2*4', 'restname': 'Restaurant Bestial', 'lng': '2.1967499999999998', 'lat': '41.386435705555556'}
+{'address': 'C. Ramon Trias Fargas, 2-4', 'restname': 'Bestial', 'lng': '2.197763098895126', 'lat': '41.38586898631535'}
+-----------------------------------------------------------------------
+{'address': "C Torrent de l'Olla 121", 'restname': 'Restaurant La Caleta de Gràcia', 'lng': '2.156437083333333', 'lat': '41.40272425833333'}
+{'address': "C. Torrent de l'Olla, 78", 'restname': 'La Vietnamita Gracia', 'lng': '2.158994306559574', 'lat': '41.40057749810111'}
+-----------------------------------------------------------------------
+{'address': 'C Casanova 42 Baix', 'restname': 'Restaurant Iurantia', 'lng': '2.1603933888888887', 'lat': '41.384312'}
+{'address': 'C. Casanova, 42', 'restname': 'Restaurant Iurantia', 'lng': '2.1602725982666016', 'lat': '41.38429527637306'}
+-----------------------------------------------------------------------
+{'address': 'C Milà i Fontanals 60', 'restname': 'Bar Restaurant Himali', 'lng': '2.1616079999999998', 'lat': '41.40226628611111'}
+{'address': 'Milà i Fontanals, 60-68', 'restname': 'Himali', 'lng': '2.1611435212798145', 'lat': '41.40227249749656'}
+-----------------------------------------------------------------------
+{'address': 'C Mallorca 303', 'restname': 'Bar Gurqui', 'lng': '2.1665854444444443', 'lat': '41.39700874722222'}
+{'address': 'Mallorca, 303', 'restname': 'Gurqui', 'lng': '2.166684939183931', 'lat': '41.39700520908751'}
+-----------------------------------------------------------------------
+{'address': 'C Floridablanca 130', 'restname': 'Restaurant Om India', 'lng': '2.1616377777777775', 'lat': '41.38071381388889'}
+{'address': 'Floridablanca, 130', 'restname': 'Om India', 'lng': '2.1616136756907958', 'lat': '41.380767228165865'}
+-----------------------------------------------------------------------
+{'address': 'C Escar 4', 'restname': 'Bar Restaurant Colombo', 'lng': '2.188187333333333', 'lat': '41.37576194722222'}
+{'address': 'Escar 4', 'restname': 'Bar Colombo', 'lng': '2.1885414', 'lat': '41.375889'}
+-----------------------------------------------------------------------
+{'address': 'C Ramon Trias Fargas 2*4', 'restname': 'Restaurant Creperie Bretonne Annaick', 'lng': '2.1967499999999998', 'lat': '41.386435705555556'}
+{'address': 'Ramon Trias Fargas, 2', 'restname': 'Crêperie Bretonne Anaick', 'lng': '2.1969612770450024', 'lat': '41.386149239125956'}
+-----------------------------------------------------------------------
+{'address': 'C Montseny 10', 'restname': 'Restaurant Piras Braseria', 'lng': '2.1543212222222223', 'lat': '41.4016595'}
+{'address': 'Montseny, 10', 'restname': 'Piras Braseria', 'lng': '2.15434', 'lat': '41.401528'}
+-----------------------------------------------------------------------
+{'address': 'Pl Mar 1*4', 'restname': 'Restaurant Kaiku', 'lng': '2.1898365833333333', 'lat': '41.375434713888886'}
+{'address': 'Plaça del Mar, 1', 'restname': 'Kaiku', 'lng': '2.189755439758301', 'lat': '41.37523866222677'}
+-----------------------------------------------------------------------
+{'address': 'Av Diagonal 640', 'restname': 'Cafeteria Starbucks Coffee *Av. Diagonal', 'lng': '2.1357829166666664', 'lat': '41.39102720555555'}
+{'address': 'Av. Diagonal, 208', 'restname': 'Starbucks Coffee', 'lng': '2.1305317050635284', 'lat': '41.38128124715089'}
+-----------------------------------------------------------------------
+{'address': 'Pl Francesc Macià 7', 'restname': 'Restaurant Ginos *Plaça Francesc Macià', 'lng': '2.1438716666666666', 'lat': '41.39212426388889'}
+{'address': 'Pl. Francesc Macià, 7', 'restname': 'Ginos Francesc Maciá', 'lng': '2.143631373492146', 'lat': '41.3923869152896'}
+-----------------------------------------------------------------------
+{'address': 'C Pintor Fortuny 29', 'restname': 'Restaurant Flor de Maig', 'lng': '2.1691406944444442', 'lat': '41.382452525'}
+{'address': 'C. Pintor Fortuny, 29', 'restname': 'Flor de Maig', 'lng': '2.168988066877764', 'lat': '41.38246207294326'}
+-----------------------------------------------------------------------
+{'address': 'Av Diagonal 593', 'restname': 'Cafeteria Starbucks Coffee *Av Diagonal', 'lng': '2.13086925', 'lat': '41.388769269444445'}
+{'address': 'Av. Diagonal, 208', 'restname': 'Starbucks Coffee', 'lng': '2.1305317050635284', 'lat': '41.38128124715089'}
+-----------------------------------------------------------------------
+{'address': 'C Sant Carles 11 Baix', 'restname': 'Restaurant Somorrostro', 'lng': '2.1890338888888885', 'lat': '41.37912986111111'}
+{'address': 'Sant Carles, 11', 'restname': 'Somorrostro', 'lng': '2.1890062483090325', 'lat': '41.37916489692652'}
+-----------------------------------------------------------------------
+{'address': 'C Providència 114*LB', 'restname': 'Restaurant Desgraciats', 'lng': '2.1607435833333333', 'lat': '41.408748816666666'}
+{'address': 'C. Providencia, 114', 'restname': 'Desgraciats', 'lng': '2.1606845100000003', 'lat': '41.408765'}
+-----------------------------------------------------------------------
+{'address': 'C Comte Borrell 68', 'restname': 'Restaurant Market', 'lng': '2.160497388888889', 'lat': '41.37911004722222'}
+{'address': 'Comte Borrell, 68', 'restname': 'Market Restaurant', 'lng': '2.160518', 'lat': '41.379321'}
+-----------------------------------------------------------------------
+{'address': 'Av Francesc Cambó 16 bxs', 'restname': 'Restaurant Cuines de Santa Caterina *Mercat de Santa Caterina', 'lng': '2.178159111111111', 'lat': '41.38636404722222'}
+{'address': 'Av. Francesc Cambó, 16', 'restname': 'Cuines de Santa Caterina', 'lng': '2.178062577164917', 'lat': '41.386135468660925'}
+-----------------------------------------------------------------------
+{'address': 'C Pau Claris 192', 'restname': 'Bar Mut', 'lng': '2.161249361111111', 'lat': '41.397305325'}
+{'address': 'Pau Claris, 192', 'restname': 'Bar Mut', 'lng': '2.161167508630787', 'lat': '41.39709612479632'}
+-----------------------------------------------------------------------
+{'address': 'Av Diagonal 208', 'restname': 'Cafeteria Starbucks Coffee *Glòries', 'lng': '2.192503722222222', 'lat': '41.404945033333334'}
+{'address': 'Av. Diagonal, 208', 'restname': 'Starbucks Coffee', 'lng': '2.191321849822998', 'lat': '41.38128124715089'}
+-----------------------------------------------------------------------
+{'address': 'C Tamarit 104', 'restname': 'Bar Lolita Taperia', 'lng': '2.1579179444444443', 'lat': '41.376214425'}
+{'address': 'Tamarit 104', 'restname': 'Lolita Taperia', 'lng': '2.1575167810200755', 'lat': '41.37616264764872'}
+-----------------------------------------------------------------------
+{'address': 'C Flassaders 19', 'restname': 'Restaurant Montiel', 'lng': '2.1817931388888887', 'lat': '41.38560255833333'}
+{'address': 'Flassaders, 19', 'restname': 'Restaurant Montiel', 'lng': '2.1818482875823975', 'lat': '41.3855872505238'}
+-----------------------------------------------------------------------
+{'address': 'C Marina 21 bxs.', 'restname': 'Restaurant Delicamon', 'lng': '2.1965545', 'lat': '41.38708262222222'}
+{'address': 'Calle Marina, 19-21', 'restname': 'Delicamon', 'lng': '2.197354984196073', 'lat': '41.38661701971976'}
+-----------------------------------------------------------------------
+{'address': 'C Pintor Fortuny 3', 'restname': 'Restaurant Bar Lobo', 'lng': '2.170809333333333', 'lat': '41.383486266666665'}
+{'address': 'C. Pintor Fortuny, 3', 'restname': 'Bar Lobo', 'lng': '2.1704467753839016', 'lat': '41.38328597698214'}
+-----------------------------------------------------------------------
+{'address': 'C Girona 57 bxs', 'restname': 'Restaurant Mayura', 'lng': '2.1721946944444444', 'lat': '41.39387070833333'}
+{'address': 'C. Girona, 57', 'restname': 'Mayura', 'lng': '2.172231838273797', 'lat': '41.39406002766306'}
+-----------------------------------------------------------------------
+{'address': 'C Vallirana 29', 'restname': 'Restaurant Petit Bangkok', 'lng': '2.14737575', 'lat': '41.40376321666667'}
+{'address': 'Vallirana, 29', 'restname': 'El Petit Bangkok', 'lng': '2.1482018128742735', 'lat': '41.40377910602387'}
+-----------------------------------------------------------------------
+{'address': 'C Nàpols 272 bxs', 'restname': 'Restaurant Els Pollos de Llull *Nàpols', 'lng': '2.1701808333333332', 'lat': '41.40249818611111'}
+{'address': 'Napols, 272', 'restname': 'Els Pollos de Llull', 'lng': '2.170552341649801', 'lat': '41.40269407814423'}
+-----------------------------------------------------------------------
+{'address': 'C Vallmajor 31', 'restname': 'Pastisseria Sacha', 'lng': '2.138637361111111', 'lat': '41.40083245833333'}
+{'address': 'Vallmajor 31', 'restname': 'Pastisseria Sacha', 'lng': '2.1387880785603532', 'lat': '41.40095221906352'}
+-----------------------------------------------------------------------
+{'address': 'Pg Gràcia 78 bxs', 'restname': 'Vinoteca Torres', 'lng': '2.1632854722222223', 'lat': '41.39388288333333'}
+{'address': 'Passeig de Gràcia, 78', 'restname': 'La Vinoteca Torres', 'lng': '2.1632766723632812', 'lat': '41.39371281718685'}
+-----------------------------------------------------------------------
+{'address': 'C Villarroel 68 bxs', 'restname': 'Restaurant Favorit', 'lng': '2.1588785555555554', 'lat': '41.38374506388889'}
+{'address': 'C. Villarroel, 68', 'restname': 'Restaurant Favorit', 'lng': '2.158922348022326', 'lat': '41.383661618987524'}
+-----------------------------------------------------------------------
+{'address': 'C Doctor Dou 14', 'restname': 'Restaurant En Ville', 'lng': '2.1685708888888886', 'lat': '41.38292651388889'}
+{'address': 'C. Doctor Dou, 14', 'restname': 'En Ville', 'lng': '2.168604204076318', 'lat': '41.382954272662076'}
+-----------------------------------------------------------------------
+{'address': 'C Sant Pau 27', 'restname': 'Restaurant Wok to Walk *Carrer Sant Pau', 'lng': '2.172242333333333', 'lat': '41.379196505555555'}
+{'address': 'Carrer de Jaume I, 7', 'restname': 'Wok to Walk', 'lng': '2.172059087158299', 'lat': '41.37920220461409'}
+-----------------------------------------------------------------------
+{'address': 'C Jaume I 7', 'restname': 'Restaurant Wok to Walk *Carrer Jaume I', 'lng': '2.177726', 'lat': '41.383218633333335'}
+{'address': 'Carrer de Jaume I, 7', 'restname': 'Wok to Walk', 'lng': '2.177667', 'lat': '41.38233550740205'}
+-----------------------------------------------------------------------
+{'address': 'C Balmes 440', 'restname': 'Restaurant El Pescadito de Balmes', 'lng': '2.1381634722222222', 'lat': '41.408025224999996'}
+{'address': 'C. Balmes 440', 'restname': 'El Pescadito de Balmes', 'lng': '2.1381263619925224', 'lat': '41.4082119301178'}
+-----------------------------------------------------------------------
+{'address': 'C Còrsega 272', 'restname': 'Restaurant MariscCo', 'lng': '2.1566386944444442', 'lat': '41.39434666111111'}
+{'address': 'C/ Còrsega, 272', 'restname': 'MariscCo', 'lng': '2.156667709350586', 'lat': '41.39432450769634'}
+-----------------------------------------------------------------------
+{'address': "C Torrent de l'Olla 78", 'restname': 'Restaurant la Vietnamita *Gràcia', 'lng': '2.1590707499999997', 'lat': '41.40076822222222'}
+{'address': "C. Torrent de l'Olla, 78", 'restname': 'La Vietnamita Gracia', 'lng': '2.158994306559574', 'lat': '41.40057749810111'}
+-----------------------------------------------------------------------
+{'address': 'C Pont del Treball Digne 13', 'restname': 'Restaurant el Ramblero', 'lng': '2.196977472222222', 'lat': '41.42188271944444'}
+{'address': 'Pont del Treball Digne, 13', 'restname': 'El Ramblero', 'lng': '2.1967260146562277', 'lat': '41.42205573282645'}
+-----------------------------------------------------------------------
+{'address': 'C Girona 51', 'restname': 'Restaurant al Punt', 'lng': '2.172542583333333', 'lat': '41.39360793611111'}
+{'address': 'Girona, 51', 'restname': 'Al Punt', 'lng': '2.1726322174072266', 'lat': '41.39363233116498'}
+-----------------------------------------------------------------------
+{'address': 'C València 225', 'restname': 'Botiga-Restaurant Cornelia and Co', 'lng': '2.161081333333333', 'lat': '41.391148083333334'}
+{'address': 'C. València, 225', 'restname': 'Cornelia and Co.', 'lng': '2.1611435212798145', 'lat': '41.39115730019084'}
+-----------------------------------------------------------------------
+{'address': 'Rbla Raval 17*21', 'restname': 'Hotel Barceló Raval - HB-004337', 'lng': '2.169582111111111', 'lat': '41.37903779166667'}
+{'address': 'Rambla del Raval 17', 'restname': 'Barceló Raval', 'lng': '2.169635842779756', 'lat': '41.37896226832445'}
+-----------------------------------------------------------------------
+{'address': 'Rda Universitat 20', 'restname': 'Botiga-Restaurant Woki Organic Market', 'lng': '2.1676333333333333', 'lat': '41.386879325'}
+{'address': 'Ronda de la Universitat, 20', 'restname': 'Woki Organic Market', 'lng': '2.1677309284007706', 'lat': '41.38677058786801'}
+-----------------------------------------------------------------------
+{'address': 'Av Diagonal 3', 'restname': 'Restaurant Viena *Diagonal Mar', 'lng': '2.216405416666667', 'lat': '41.41042664722222'}
+{'address': 'Av. Diagonal, 3', 'restname': 'Viena', 'lng': '2.21649169921875', 'lat': '41.40905163325277'}
+-----------------------------------------------------------------------
+{'address': 'Trav Gràcia 50*52', 'restname': 'Restaurant Meatpacking Bistro', 'lng': '2.1490500277777778', 'lat': '41.39563896944444'}
+{'address': 'Travessera de Gràcia, 50-52', 'restname': 'Meatpacking Bistro', 'lng': '2.1492569646230133', 'lat': '41.39593556008145'}
+-----------------------------------------------------------------------
+{'address': 'C Comerç 1', 'restname': 'Restaurant Picnic', 'lng': '2.181616638888889', 'lat': '41.38847135277778'}
+{'address': 'C. Comerç, 1', 'restname': 'Picnic', 'lng': '2.1815469839828467', 'lat': '41.388687868505116'}
+-----------------------------------------------------------------------
+{'address': 'Ptge Concepció 12', 'restname': 'Restaurant Boca Grande', 'lng': '2.1599195', 'lat': '41.394496197222225'}
+{'address': 'Passatge de la Concepció, 12', 'restname': 'Boca Grande', 'lng': '2.1597954527180803', 'lat': '41.39446910967933'}
+-----------------------------------------------------------------------
+{'address': 'Pg Zona Franca 228', 'restname': 'Restaurant Granja Elena', 'lng': '2.1374518055555556', 'lat': '41.36271104166667'}
+{'address': 'Pg. Zona Franca, 228', 'restname': 'Granja Elena', 'lng': '2.137123', 'lat': '41.362615'}
+-----------------------------------------------------------------------
+{'address': 'C Diputació 309', 'restname': 'Restaurant Toscana', 'lng': '2.1702393888888887', 'lat': '41.392937805555555'}
+{'address': 'Carrer de la Diputació, 309', 'restname': 'Toscana Ristorante', 'lng': '2.1702884264493076', 'lat': '41.393083122278426'}
+-----------------------------------------------------------------------
+{'address': 'C Bòria 17', 'restname': 'Restaurant Cat Bar', 'lng': '2.1787908333333332', 'lat': '41.3845427'}
+{'address': 'Bòria, 17', 'restname': 'Cat Bar', 'lng': '2.1786685287952423', 'lat': '41.384412534475736'}
+-----------------------------------------------------------------------
+{'address': 'C Minerva 8*10', 'restname': 'Restaurant La Minerva', 'lng': '2.156355694444444', 'lat': '41.39659657222222'}
+{'address': 'C/ Minerva 8', 'restname': 'Restaurante La Minerva', 'lng': '2.1564303', 'lat': '41.396478450000004'}
+-----------------------------------------------------------------------
+{'address': 'C Escudellers 42', 'restname': 'Restaurant Gopal', 'lng': '2.1772674999999997', 'lat': '41.38028738055556'}
+{'address': 'Escudellers, 42', 'restname': 'Gopal', 'lng': '2.177213430404663', 'lat': '41.380310521527484'}
+-----------------------------------------------------------------------
+{'address': 'C Muntaner 102', 'restname': 'Restaurant Casa Chelis', 'lng': '2.156897611111111', 'lat': '41.38865804444444'}
+{'address': 'C. de Muntaner, 102', 'restname': 'Casa Chelis', 'lng': '2.156802021478829', 'lat': '41.38861337565642'}
+-----------------------------------------------------------------------
+{'address': 'Rda Sant Antoni 41 bxs', 'restname': 'Edifici de la Fàbrica Moritz - Espai Gastronòmic i Cultural', 'lng': '2.16343675', 'lat': '41.382650733333335'}
+{'address': 'Rda. de Sant Antoni, 41', 'restname': 'Fàbrica Moritz Barcelona', 'lng': '2.163571106059238', 'lat': '41.38264973027047'}
+-----------------------------------------------------------------------
+{'address': "C Torrent de l'Olla 10", 'restname': 'Restaurant Toyo', 'lng': '2.161207722222222', 'lat': '41.398678080555555'}
+{'address': "C. Torrent de l'Olla, 10", 'restname': 'Toyo', 'lng': '2.161087989807129', 'lat': '41.39876713971668'}
+-----------------------------------------------------------------------
+{'address': 'C Vallespir 51', 'restname': 'Restaurant Santa Burg', 'lng': '2.136746083333333', 'lat': '41.37973398055556'}
+{'address': 'C. Vallespir, 51', 'restname': 'Santa Burg', 'lng': '2.13683365', 'lat': '41.3797438'}
+-----------------------------------------------------------------------
+{'address': 'C Vilardell 23 bxs', 'restname': 'Cucut Biz Bar', 'lng': '2.1430817777777778', 'lat': '41.374749225'}
+{'address': 'Vilardell, 23', 'restname': 'Cucut Biz & Bar', 'lng': '2.1431010961532593', 'lat': '41.37470327622341'}
+-----------------------------------------------------------------------
+{'address': 'Pl Sant Pere 12', 'restname': 'Restaurant La Candela', 'lng': '2.1788959444444442', 'lat': '41.38927325555556'}
+{'address': 'Plaça de Sant Pere, 13', 'restname': 'La Candela', 'lng': '2.178950451380724', 'lat': '41.380712'}
+-----------------------------------------------------------------------
+{'address': 'Pg Picasso 32', 'restname': 'Restaurant Ikibana *Born', 'lng': '2.1843560833333333', 'lat': '41.386400916666666'}
+{'address': 'P. Picasso, 32', 'restname': 'Ikibana Borne', 'lng': '2.1844652620971168', 'lat': '41.38635183112698'}
+-----------------------------------------------------------------------
+{'address': 'C Pintor Fortuny 32', 'restname': 'Restaurant Carlota Akaneya', 'lng': '2.168635944444444', 'lat': '41.38233429722222'}
+{'address': 'C. del Pintor Fortuny, 32', 'restname': 'Carlota Akaneya', 'lng': '2.1687817402150076', 'lat': '41.38233879040723'}
+-----------------------------------------------------------------------
+{'address': 'Rbla Raval 43', 'restname': 'Restaurant Suculent', 'lng': '2.1703724444444443', 'lat': '41.37822472222222'}
+{'address': 'Rambla del Raval, 43', 'restname': 'Suculent', 'lng': '2.170197256103321', 'lat': '41.37805800733421'}
+-----------------------------------------------------------------------
+{'address': 'C Poeta Cabanyes 19', 'restname': 'Restaurant The Tatami Room', 'lng': '2.1657395', 'lat': '41.374228747222226'}
+{'address': 'Carrer del Poeta Cabanyes, 19', 'restname': 'The Tatami Room', 'lng': '2.1658623218536377', 'lat': '41.37420814088465'}
+-----------------------------------------------------------------------
+{'address': 'C Parlament 25', 'restname': 'Bar Calders', 'lng': '2.16234875', 'lat': '41.37643850833334'}
+{'address': 'C. Parlament, 25', 'restname': 'Bar Calders', 'lng': '2.1624580469714454', 'lat': '41.37650925340439'}
+-----------------------------------------------------------------------
+{'address': 'C Girona 164', 'restname': 'Restaurant Ramen-ya Hiro', 'lng': '2.1649459444444443', 'lat': '41.39962663611111'}
+{'address': 'C. Girona, 164', 'restname': 'Ramen-Ya Hiro', 'lng': '2.1647609582982534', 'lat': '41.39963669231111'}
+-----------------------------------------------------------------------
+{'address': 'Av Paral.lel 148', 'restname': 'Restaurant Ikibana *Paral·lel', 'lng': '2.158243972222222', 'lat': '41.37518665277778'}
+{'address': 'Av. del Paral·lel, 148', 'restname': 'Ikibana Paralelo', 'lng': '2.158586543037662', 'lat': '41.375155411976976'}
+-----------------------------------------------------------------------
+{'address': 'Pl Camp 2', 'restname': 'Bar Sarrietto', 'lng': '2.1363291388888888', 'lat': '41.40350895555555'}
+{'address': 'Plaza del camp 2', 'restname': 'Sarrietto', 'lng': '2.136131681204414', 'lat': '41.40102'}
+-----------------------------------------------------------------------
+{'address': 'C Calvet 50', 'restname': 'Restaurant Carlitos', 'lng': '2.142801361111111', 'lat': '41.39533761944445'}
+{'address': 'Calvet 50 local 4', 'restname': 'Carlitos', 'lng': '2.1426578772229963', 'lat': '41.39511995680966'}
+-----------------------------------------------------------------------
+{'address': 'C Comerç 17', 'restname': 'Restaurant la Vietnamita *Born', 'lng': '2.1820945', 'lat': '41.387064116666664'}
+{'address': 'C. Comerç, 17', 'restname': 'La Vietnamita Born', 'lng': '2.1820125518635307', 'lat': '41.38696315204942'}
+-----------------------------------------------------------------------
+{'address': 'Pg Marítim de la Barceloneta 1', 'restname': 'Restaurant Barraca', 'lng': '2.191934555555555', 'lat': '41.37906603611111'}
+{'address': 'Pg. Marítim de la Barceloneta, 1', 'restname': 'Barraca', 'lng': '2.192103', 'lat': '41.379047'}
+-----------------------------------------------------------------------
+{'address': 'C Margarit 54', 'restname': 'Bar Celler Cal Marino', 'lng': '2.163074638888889', 'lat': '41.372469244444446'}
+{'address': 'C. Margarit, 54', 'restname': 'Celler Cal Marino', 'lng': '2.16306209564209', 'lat': '41.37260596981391'}
+-----------------------------------------------------------------------
+{'address': 'C Rosselló 253', 'restname': 'Restaurant Margherita', 'lng': '2.1595195555555553', 'lat': '41.395096233333334'}
+{'address': 'Calle Rosselló, 253', 'restname': 'Restaurante Margherita', 'lng': '2.15954', 'lat': '41.395'}
+-----------------------------------------------------------------------
+{'address': 'C Santa Anna 11', 'restname': 'Restaurante Prado de Flores', 'lng': '2.171220111111111', 'lat': '41.385113525'}
+{'address': 'C. Santa Anna, 11', 'restname': 'Prado de Flores', 'lng': '2.171306', 'lat': '41.385164'}
+-----------------------------------------------------------------------
+{'address': 'Via Laietana 20', 'restname': 'Bar Restaurant Bernie\x92s Diner Grill & Burger Bar Barcelona', 'lng': '2.178971972222222', 'lat': '41.38398685833333'}
+{'address': 'Via Laietana, 20', 'restname': "Bernie's Diner Grill & Burger Bar Barcelona", 'lng': '2.179166078567505', 'lat': '41.383868637526355'}
+-----------------------------------------------------------------------
+{'address': 'C Perill 13', 'restname': 'Restaurant Gut', 'lng': '2.161220833333333', 'lat': '41.399325725'}
+{'address': 'Perill, 13', 'restname': 'Gut', 'lng': '2.161282648093535', 'lat': '41.399325212885785'}
+-----------------------------------------------------------------------
+{'address': 'Pg Gràcia 24', 'restname': 'Restaurant El Nacional', 'lng': '2.16789425', 'lat': '41.39016388333333'}
+{'address': 'Pg. de Gràcia, 24 bis', 'restname': 'El Nacional', 'lng': '2.167739868164062', 'lat': '41.39007474945057'}
+-----------------------------------------------------------------------
+{'address': 'C Mandri 64', 'restname': 'Cafeteria Doctor Coffee', 'lng': '2.1319090555555555', 'lat': '41.40518765277778'}
+{'address': 'Carrer Mandri, 64', 'restname': 'Doctor Coffee', 'lng': '2.131854', 'lat': '41.405166'}
+-----------------------------------------------------------------------
+{'address': 'C Loreto 26', 'restname': 'Restaurant Comboo Lounge & Cocktails', 'lng': '2.1421996388888886', 'lat': '41.3898666'}
+{'address': 'Loreto 26', 'restname': 'Comboo Restaurant Lounge & Cocktails', 'lng': '2.142183780670166', 'lat': '41.38992181736544'}
+-----------------------------------------------------------------------
+{'address': 'Av Mistral 50', 'restname': 'Restaurant Hoja Santa', 'lng': '2.1543471666666667', 'lat': '41.37616867777778'}
+{'address': 'Mistral, 54', 'restname': 'Hoja Santa', 'lng': '2.1540726080462096', 'lat': '41.37635901957899'}
+-----------------------------------------------------------------------
+{'address': 'C Rosselló 325', 'restname': 'Restaurant Can Kenji', 'lng': '2.166635', 'lat': '41.400460969444445'}
+{'address': 'C. Rosselló, 325', 'restname': 'Can Kenji', 'lng': '2.166381', 'lat': '41.400392'}
+-----------------------------------------------------------------------
+{'address': 'Av Josep Tarradellas 138', 'restname': 'Restaurant Filburg *Av. Josep Tarradellas', 'lng': '2.144497972222222', 'lat': '41.391975494444445'}
+{'address': 'Avenida Josep Tarradellas 138', 'restname': 'Filburg', 'lng': '2.144211644851533', 'lat': '41.39217627835365'}
+-----------------------------------------------------------------------
+{'address': 'C Rambla 31', 'restname': 'Restaurant Ultramarinos', 'lng': '2.174970805555555', 'lat': '41.37891498055556'}
+{'address': 'Las Ramblas, 31', 'restname': 'Ultramarinos Santa Mònica', 'lng': '2.174947956848547', 'lat': '41.37884237536583'}
+-----------------------------------------------------------------------
+{'address': 'Rda Universitat 31', 'restname': 'Restaurant Bacoa *Rda Universitat', 'lng': '2.16723825', 'lat': '41.3870517'}
+{'address': 'Ronda Universitat, 31', 'restname': 'Bacoa Universitat', 'lng': '2.1672141551971436', 'lat': '41.38710055831699'}
+-----------------------------------------------------------------------
+{'address': 'C Ferran 10', 'restname': 'Restaurant Bacoa *Ferran', 'lng': '2.1746633055555553', 'lat': '41.380638675'}
+{'address': 'C. Ferran, 10', 'restname': 'Bacoa Ferran', 'lng': '2.174681', 'lat': '41.380654'}
+-----------------------------------------------------------------------
+{'address': 'C Pujades 168', 'restname': 'Timesburg *Poblenou', 'lng': '2.1997267777777774', 'lat': '41.400730583333335'}
+{'address': 'C. Pujades, 168', 'restname': 'Timesburg', 'lng': '2.1991891286619043', 'lat': '41.400800391831794'}
+-----------------------------------------------------------------------
+{'address': 'C Rosselló 520', 'restname': 'Timesburg *Sant Pau', 'lng': '2.180391611111111', 'lat': '41.410384091666664'}
+{'address': 'C. Rosselló, 520', 'restname': 'Timesburg', 'lng': '2.1801263117415655', 'lat': '41.410386621336706'}
+-----------------------------------------------------------------------
+{'address': 'Rbla Raval 39', 'restname': 'Restaurant La Taverna del Suculent', 'lng': '2.1702442222222222', 'lat': '41.37832979722222'}
+{'address': 'Rambla del Raval, 43', 'restname': 'Suculent', 'lng': '2.170197256103321', 'lat': '41.37805800733421'}
+-----------------------------------------------------------------------
+{'address': 'C Mercè 28', 'restname': 'Bar La Plata', 'lng': '2.1806235', 'lat': '41.38045457222222'}
+{'address': 'Mercè, 28', 'restname': 'Bar La Plata', 'lng': '2.1806158626567247', 'lat': '41.38034532654998'}
+-----------------------------------------------------------------------
+{'address': 'Rda Sant Antoni 41', 'restname': 'Edifici de la Fàbrica Moritz - Espai Gastronòmic i Cultural', 'lng': '2.16343675', 'lat': '41.382650733333335'}
+{'address': 'Rda. de Sant Antoni, 41', 'restname': 'Fàbrica Moritz Barcelona', 'lng': '2.163571106059238', 'lat': '41.38264973027047'}
+-----------------------------------------------------------------------
+{'address': 'C Constitució 181', 'restname': 'Restaurant Mitja Galta', 'lng': '2.1318628333333334', 'lat': '41.368312958333334'}
+{'address': 'Constitució, 181', 'restname': 'Mitja Galta', 'lng': '2.1317973919779125', 'lat': '41.36842284216073'}
+-----------------------------------------------------------------------
+{'address': 'C Escar 16', 'restname': 'Restaurant 3 Nusos', 'lng': '2.1879941666666665', 'lat': '41.37566922222222'}
+{'address': 'C. Escar, 16', 'restname': '3 Nusos Restaurant', 'lng': '2.187877893447876', 'lat': '41.37585455195307'}
+-----------------------------------------------------------------------
+{'address': 'C Sant Fructuós 13*15', 'restname': 'Restaurant Tacos Tacos *Sant Fructuós', 'lng': '2.1480011388888887', 'lat': '41.372203677777776'}
+{'address': 'C/ Sant Fructuós, 13', 'restname': 'Tacos Tacos', 'lng': '2.148041', 'lat': '41.372336'}
+-----------------------------------------------------------------------
+{'address': 'C Tamarit 85', 'restname': 'Restaurant Tacos Tacos *Tamarit', 'lng': '2.1554528333333334', 'lat': '41.37463770833333'}
+{'address': 'C. de Tamarit, 85', 'restname': 'Tacos Tacos', 'lng': '2.1556708812713623', 'lat': '41.372336'}
+-----------------------------------------------------------------------
+{'address': 'C Tapioles 9', 'restname': 'Restaurant Tacos Tacos *Tapioles', 'lng': '2.1649944999999997', 'lat': '41.37443761111111'}
+{'address': 'Tapioles 9', 'restname': 'Tacos Tacos', 'lng': '2.148041', 'lat': '41.372336'}
+-----------------------------------------------------------------------

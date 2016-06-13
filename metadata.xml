@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<metadata>
+    <prefixes>
+        <prefix name="rest">
+            <namespace>http://restaurants.recommender.es/property/restaurant/</namespace>
+            <classes>
+                <class name="Restaurant">
+                    <properties>
+                        <property name="name" />
+                        <property name="belongsTo" />
+                        <property name="location" />
+                        <property name="rate" />
+                        <property name="contact" />
+                    </properties>
+                </class>
+            </classes>
+        </prefix>
+        <prefix name="loc">
+            <namespace>http://restaurants.recommender.es/property/location/</namespace>
+            <classes>
+                <class name="Location">
+                    <properties>
+                        <property name="address" />
+                        <property name="city" />
+                        <property name="country" />
+                        <property name="latitude" />
+                        <property name="longitude" />
+                    </properties>
+                </class>
+            </classes>
+        </prefix>
+        <prefix name="rate">
+            <namespace>http://restaurants.recommender.es/property/rate/</namespace>
+            <classes>
+                <class name="Rate">
+                    <properties>
+                        <property name="price" />
+                        <property name="score" />
+                        <property name="likes" />
+                    </properties>
+                </class>
+            </classes>
+        </prefix>
+        <prefix name="cont">
+            <namespace>http://restaurants.recommender.es/property/contact/</namespace>
+            <classes>
+                <class name="Contact">
+                    <properties>
+                        <property name="timetable" />
+                        <property name="telephone" />
+                        <property name="email" />
+                    </properties>
+                </class>
+            </classes>
+        </prefix>
+        <prefix name="res">
+            <namespace>http://restaurants.recommender.es/resource/</namespace>
+        </prefix>
+    </prefixes>
+    <search_exclude>
+        <words>
+            <word>Bar</word>
+            <word>Restaurant</word>
+            <word>Bodega</word>
+            <word>Cerveseria</word>
+            <word>Cervesería</word>
+            <word>Taverna</word>
+            <word>Xinès</word>
+            <word>Hotel</word>
+            <word>Pizzeria</word>
+            <word>Pizzería</word>
+            <word>Cafè</word>
+            <word>Café</word>
+            <word>Teatro</word>
+            <word>Cafeteria</word>
+            <word>Cafetería</word>
+            <word>Hamburgueseria</word>
+            <word>Lounge</word>
+            <word>Gelateria</word>
+            <word>Escola</word>
+            <word>Càtering</word>
+            <word>Casino</word>
+            <word>Edifici</word>
+            <word>Creperia</word>
+            <word>Restaurante</word>
+            <word>Ristorante</word>
+            <word>Salsitxeria</word>
+            <word>Llibreria</word>
+            <word>Cooperativa</word>
+            <word>Braseria</word>
+            <word>Centre</word>
+            <word>Xiringuito</word>
+            <word>Llesqueria</word>
+            <word>Restaurantes</word>
+            <word>Cervesseria</word>
+            <word>Cocteleria</word>
+            <word>Musical</word>
+            <word>Xarcuteria</word>
+            <word>Peixateria</word>
+            <word>Cibercafé</word>
+            <word>Cibercafè</word>
+            <word>Japonès</word>
+        </words>
+    </search_exclude>
+</metadata>
